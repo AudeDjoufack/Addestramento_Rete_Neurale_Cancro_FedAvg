@@ -1,0 +1,781 @@
+filepath,split,tasks/case category,tasks/malignancy,original_filepath,original_split,case category,malignancy,mask_path,original_image_size,original_mask_path
+images/000000.tiff,train,1,0,benign/benign (1).png,train,benign,no malignant finding,masks/000000.tiff,"(562, 471)",benign/benign (1)_mask.png
+images/000001.tiff,test,1,0,benign/benign (10).png,train,benign,no malignant finding,masks/000001.tiff,"(683, 585)",benign/benign (10)_mask.png
+images/000002.tiff,train,1,0,benign/benign (100).png,train,benign,no malignant finding,masks/000002.tiff,"(323, 473)",benign/benign (100)_mask.png
+images/000003.tiff,train,1,0,benign/benign (101).png,train,benign,no malignant finding,masks/000003.tiff,"(563, 473)",benign/benign (101)_mask.png
+images/000004.tiff,test,1,0,benign/benign (102).png,train,benign,no malignant finding,masks/000004.tiff,"(634, 610)",benign/benign (102)_mask.png
+images/000005.tiff,train,1,0,benign/benign (103).png,train,benign,no malignant finding,masks/000005.tiff,"(766, 585)",benign/benign (103)_mask.png
+images/000006.tiff,train,1,0,benign/benign (104).png,train,benign,no malignant finding,masks/000006.tiff,"(777, 578)",benign/benign (104)_mask.png
+images/000007.tiff,train,1,0,benign/benign (105).png,train,benign,no malignant finding,masks/000007.tiff,"(882, 581)",benign/benign (105)_mask.png
+images/000008.tiff,val,1,0,benign/benign (106).png,train,benign,no malignant finding,masks/000008.tiff,"(808, 716)",benign/benign (106)_mask.png
+images/000009.tiff,train,1,0,benign/benign (107).png,train,benign,no malignant finding,masks/000009.tiff,"(759, 616)",benign/benign (107)_mask.png
+images/000010.tiff,train,1,0,benign/benign (108).png,train,benign,no malignant finding,masks/000010.tiff,"(769, 582)",benign/benign (108)_mask.png
+images/000011.tiff,train,1,0,benign/benign (109).png,train,benign,no malignant finding,masks/000011.tiff,"(562, 470)",benign/benign (109)_mask.png
+images/000012.tiff,train,1,0,benign/benign (11).png,train,benign,no malignant finding,masks/000012.tiff,"(689, 587)",benign/benign (11)_mask.png
+images/000013.tiff,test,1,0,benign/benign (110).png,train,benign,no malignant finding,masks/000013.tiff,"(555, 468)",benign/benign (110)_mask.png
+images/000014.tiff,test,1,0,benign/benign (111).png,train,benign,no malignant finding,masks/000014.tiff,"(315, 477)",benign/benign (111)_mask.png
+images/000015.tiff,train,1,0,benign/benign (112).png,train,benign,no malignant finding,masks/000015.tiff,"(652, 612)",benign/benign (112)_mask.png
+images/000016.tiff,train,1,0,benign/benign (113).png,train,benign,no malignant finding,masks/000016.tiff,"(810, 695)",benign/benign (113)_mask.png
+images/000017.tiff,train,1,0,benign/benign (114).png,train,benign,no malignant finding,masks/000017.tiff,"(757, 575)",benign/benign (114)_mask.png
+images/000018.tiff,train,1,0,benign/benign (115).png,train,benign,no malignant finding,masks/000018.tiff,"(554, 469)",benign/benign (115)_mask.png
+images/000019.tiff,train,1,0,benign/benign (116).png,train,benign,no malignant finding,masks/000019.tiff,"(766, 588)",benign/benign (116)_mask.png
+images/000020.tiff,test,1,0,benign/benign (117).png,train,benign,no malignant finding,masks/000020.tiff,"(806, 688)",benign/benign (117)_mask.png
+images/000021.tiff,test,1,0,benign/benign (118).png,train,benign,no malignant finding,masks/000021.tiff,"(653, 620)",benign/benign (118)_mask.png
+images/000022.tiff,train,1,0,benign/benign (119).png,train,benign,no malignant finding,masks/000022.tiff,"(762, 585)",benign/benign (119)_mask.png
+images/000023.tiff,train,1,0,benign/benign (12).png,train,benign,no malignant finding,masks/000023.tiff,"(678, 571)",benign/benign (12)_mask.png
+images/000024.tiff,train,1,0,benign/benign (120).png,train,benign,no malignant finding,masks/000024.tiff,"(808, 695)",benign/benign (120)_mask.png
+images/000025.tiff,train,1,0,benign/benign (121).png,train,benign,no malignant finding,masks/000025.tiff,"(646, 610)",benign/benign (121)_mask.png
+images/000026.tiff,train,1,0,benign/benign (122).png,train,benign,no malignant finding,masks/000026.tiff,"(774, 577)",benign/benign (122)_mask.png
+images/000027.tiff,test,1,0,benign/benign (123).png,train,benign,no malignant finding,masks/000027.tiff,"(648, 610)",benign/benign (123)_mask.png
+images/000028.tiff,train,1,0,benign/benign (124).png,train,benign,no malignant finding,masks/000028.tiff,"(645, 614)",benign/benign (124)_mask.png
+images/000029.tiff,train,1,0,benign/benign (125).png,train,benign,no malignant finding,masks/000029.tiff,"(756, 578)",benign/benign (125)_mask.png
+images/000030.tiff,train,1,0,benign/benign (126).png,train,benign,no malignant finding,masks/000030.tiff,"(771, 570)",benign/benign (126)_mask.png
+images/000031.tiff,train,1,0,benign/benign (127).png,train,benign,no malignant finding,masks/000031.tiff,"(558, 476)",benign/benign (127)_mask.png
+images/000032.tiff,test,1,0,benign/benign (128).png,train,benign,no malignant finding,masks/000032.tiff,"(549, 475)",benign/benign (128)_mask.png
+images/000033.tiff,train,1,0,benign/benign (129).png,train,benign,no malignant finding,masks/000033.tiff,"(775, 587)",benign/benign (129)_mask.png
+images/000034.tiff,test,1,0,benign/benign (13).png,train,benign,no malignant finding,masks/000034.tiff,"(678, 571)",benign/benign (13)_mask.png
+images/000035.tiff,test,1,0,benign/benign (130).png,train,benign,no malignant finding,masks/000035.tiff,"(558, 474)",benign/benign (130)_mask.png
+images/000036.tiff,val,1,0,benign/benign (131).png,train,benign,no malignant finding,masks/000036.tiff,"(587, 435)",benign/benign (131)_mask.png
+images/000037.tiff,train,1,0,benign/benign (132).png,train,benign,no malignant finding,masks/000037.tiff,"(552, 483)",benign/benign (132)_mask.png
+images/000038.tiff,train,1,0,benign/benign (133).png,train,benign,no malignant finding,masks/000038.tiff,"(369, 342)",benign/benign (133)_mask.png
+images/000039.tiff,train,1,0,benign/benign (134).png,train,benign,no malignant finding,masks/000039.tiff,"(378, 345)",benign/benign (134)_mask.png
+images/000040.tiff,test,1,0,benign/benign (135).png,train,benign,no malignant finding,masks/000040.tiff,"(776, 582)",benign/benign (135)_mask.png
+images/000041.tiff,train,1,0,benign/benign (136).png,train,benign,no malignant finding,masks/000041.tiff,"(886, 581)",benign/benign (136)_mask.png
+images/000042.tiff,train,1,0,benign/benign (137).png,train,benign,no malignant finding,masks/000042.tiff,"(777, 578)",benign/benign (137)_mask.png
+images/000043.tiff,train,1,0,benign/benign (138).png,train,benign,no malignant finding,masks/000043.tiff,"(766, 600)",benign/benign (138)_mask.png
+images/000044.tiff,train,1,0,benign/benign (139).png,train,benign,no malignant finding,masks/000044.tiff,"(563, 468)",benign/benign (139)_mask.png
+images/000045.tiff,train,1,0,benign/benign (14).png,train,benign,no malignant finding,masks/000045.tiff,"(699, 531)",benign/benign (14)_mask.png
+images/000046.tiff,train,1,0,benign/benign (140).png,train,benign,no malignant finding,masks/000046.tiff,"(452, 591)",benign/benign (140)_mask.png
+images/000047.tiff,test,1,0,benign/benign (141).png,train,benign,no malignant finding,masks/000047.tiff,"(567, 471)",benign/benign (141)_mask.png
+images/000048.tiff,train,1,0,benign/benign (142).png,train,benign,no malignant finding,masks/000048.tiff,"(785, 582)",benign/benign (142)_mask.png
+images/000049.tiff,train,1,0,benign/benign (143).png,train,benign,no malignant finding,masks/000049.tiff,"(554, 467)",benign/benign (143)_mask.png
+images/000050.tiff,train,1,0,benign/benign (144).png,train,benign,no malignant finding,masks/000050.tiff,"(770, 580)",benign/benign (144)_mask.png
+images/000051.tiff,train,1,0,benign/benign (145).png,train,benign,no malignant finding,masks/000051.tiff,"(779, 574)",benign/benign (145)_mask.png
+images/000052.tiff,test,1,0,benign/benign (146).png,train,benign,no malignant finding,masks/000052.tiff,"(449, 594)",benign/benign (146)_mask.png
+images/000053.tiff,train,1,0,benign/benign (147).png,train,benign,no malignant finding,masks/000053.tiff,"(564, 463)",benign/benign (147)_mask.png
+images/000054.tiff,train,1,0,benign/benign (148).png,train,benign,no malignant finding,masks/000054.tiff,"(567, 463)",benign/benign (148)_mask.png
+images/000055.tiff,train,1,0,benign/benign (149).png,train,benign,no malignant finding,masks/000055.tiff,"(557, 468)",benign/benign (149)_mask.png
+images/000056.tiff,train,1,0,benign/benign (15).png,train,benign,no malignant finding,masks/000056.tiff,"(701, 526)",benign/benign (15)_mask.png
+images/000057.tiff,train,1,0,benign/benign (150).png,train,benign,no malignant finding,masks/000057.tiff,"(671, 570)",benign/benign (150)_mask.png
+images/000058.tiff,test,1,0,benign/benign (151).png,train,benign,no malignant finding,masks/000058.tiff,"(560, 469)",benign/benign (151)_mask.png
+images/000059.tiff,train,1,0,benign/benign (152).png,train,benign,no malignant finding,masks/000059.tiff,"(555, 471)",benign/benign (152)_mask.png
+images/000060.tiff,train,1,0,benign/benign (153).png,train,benign,no malignant finding,masks/000060.tiff,"(772, 574)",benign/benign (153)_mask.png
+images/000061.tiff,train,1,0,benign/benign (154).png,train,benign,no malignant finding,masks/000061.tiff,"(556, 464)",benign/benign (154)_mask.png
+images/000062.tiff,test,1,0,benign/benign (155).png,train,benign,no malignant finding,masks/000062.tiff,"(783, 583)",benign/benign (155)_mask.png
+images/000063.tiff,train,1,0,benign/benign (156).png,train,benign,no malignant finding,masks/000063.tiff,"(887, 581)",benign/benign (156)_mask.png
+images/000064.tiff,test,1,0,benign/benign (157).png,train,benign,no malignant finding,masks/000064.tiff,"(567, 465)",benign/benign (157)_mask.png
+images/000065.tiff,train,1,0,benign/benign (158).png,train,benign,no malignant finding,masks/000065.tiff,"(556, 464)",benign/benign (158)_mask.png
+images/000066.tiff,train,1,0,benign/benign (159).png,train,benign,no malignant finding,masks/000066.tiff,"(696, 574)",benign/benign (159)_mask.png
+images/000067.tiff,train,1,0,benign/benign (16).png,train,benign,no malignant finding,masks/000067.tiff,"(558, 462)",benign/benign (16)_mask.png
+images/000068.tiff,train,1,0,benign/benign (160).png,train,benign,no malignant finding,masks/000068.tiff,"(624, 585)",benign/benign (160)_mask.png
+images/000069.tiff,train,1,0,benign/benign (161).png,train,benign,no malignant finding,masks/000069.tiff,"(568, 463)",benign/benign (161)_mask.png
+images/000070.tiff,train,1,0,benign/benign (162).png,train,benign,no malignant finding,masks/000070.tiff,"(549, 470)",benign/benign (162)_mask.png
+images/000071.tiff,test,1,0,benign/benign (163).png,train,benign,no malignant finding,masks/000071.tiff,"(779, 576)",benign/benign (163)_mask.png
+images/000072.tiff,train,1,0,benign/benign (164).png,train,benign,no malignant finding,masks/000072.tiff,"(560, 470)",benign/benign (164)_mask.png
+images/000073.tiff,train,1,0,benign/benign (165).png,train,benign,no malignant finding,masks/000073.tiff,"(558, 464)",benign/benign (165)_mask.png
+images/000074.tiff,train,1,0,benign/benign (166).png,train,benign,no malignant finding,masks/000074.tiff,"(555, 471)",benign/benign (166)_mask.png
+images/000075.tiff,train,1,0,benign/benign (167).png,train,benign,no malignant finding,masks/000075.tiff,"(566, 463)",benign/benign (167)_mask.png
+images/000076.tiff,train,1,0,benign/benign (168).png,train,benign,no malignant finding,masks/000076.tiff,"(557, 471)",benign/benign (168)_mask.png
+images/000077.tiff,train,1,0,benign/benign (169).png,train,benign,no malignant finding,masks/000077.tiff,"(561, 469)",benign/benign (169)_mask.png
+images/000078.tiff,train,1,0,benign/benign (17).png,train,benign,no malignant finding,masks/000078.tiff,"(558, 463)",benign/benign (17)_mask.png
+images/000079.tiff,train,1,0,benign/benign (170).png,train,benign,no malignant finding,masks/000079.tiff,"(564, 468)",benign/benign (170)_mask.png
+images/000080.tiff,test,1,0,benign/benign (171).png,train,benign,no malignant finding,masks/000080.tiff,"(566, 463)",benign/benign (171)_mask.png
+images/000081.tiff,train,1,0,benign/benign (172).png,train,benign,no malignant finding,masks/000081.tiff,"(619, 589)",benign/benign (172)_mask.png
+images/000082.tiff,train,1,0,benign/benign (173).png,train,benign,no malignant finding,masks/000082.tiff,"(726, 573)",benign/benign (173)_mask.png
+images/000083.tiff,train,1,0,benign/benign (174).png,train,benign,no malignant finding,masks/000083.tiff,"(556, 490)",benign/benign (174)_mask.png
+images/000084.tiff,train,1,0,benign/benign (175).png,train,benign,no malignant finding,masks/000084.tiff,"(765, 573)",benign/benign (175)_mask.png
+images/000085.tiff,test,1,0,benign/benign (176).png,train,benign,no malignant finding,masks/000085.tiff,"(715, 487)",benign/benign (176)_mask.png
+images/000086.tiff,train,1,0,benign/benign (177).png,train,benign,no malignant finding,masks/000086.tiff,"(562, 470)",benign/benign (177)_mask.png
+images/000087.tiff,test,1,0,benign/benign (178).png,train,benign,no malignant finding,masks/000087.tiff,"(772, 576)",benign/benign (178)_mask.png
+images/000088.tiff,train,1,0,benign/benign (179).png,train,benign,no malignant finding,masks/000088.tiff,"(422, 468)",benign/benign (179)_mask.png
+images/000089.tiff,train,1,0,benign/benign (18).png,train,benign,no malignant finding,masks/000089.tiff,"(564, 469)",benign/benign (18)_mask.png
+images/000090.tiff,train,1,0,benign/benign (180).png,train,benign,no malignant finding,masks/000090.tiff,"(763, 600)",benign/benign (180)_mask.png
+images/000091.tiff,test,1,0,benign/benign (181).png,train,benign,no malignant finding,masks/000091.tiff,"(733, 455)",benign/benign (181)_mask.png
+images/000092.tiff,train,1,0,benign/benign (182).png,train,benign,no malignant finding,masks/000092.tiff,"(555, 463)",benign/benign (182)_mask.png
+images/000093.tiff,train,1,0,benign/benign (183).png,train,benign,no malignant finding,masks/000093.tiff,"(916, 683)",benign/benign (183)_mask.png
+images/000094.tiff,train,1,0,benign/benign (184).png,train,benign,no malignant finding,masks/000094.tiff,"(349, 487)",benign/benign (184)_mask.png
+images/000095.tiff,test,1,0,benign/benign (185).png,train,benign,no malignant finding,masks/000095.tiff,"(752, 592)",benign/benign (185)_mask.png
+images/000096.tiff,train,1,0,benign/benign (186).png,train,benign,no malignant finding,masks/000096.tiff,"(741, 574)",benign/benign (186)_mask.png
+images/000097.tiff,train,1,0,benign/benign (187).png,train,benign,no malignant finding,masks/000097.tiff,"(730, 574)",benign/benign (187)_mask.png
+images/000098.tiff,test,1,0,benign/benign (188).png,train,benign,no malignant finding,masks/000098.tiff,"(655, 600)",benign/benign (188)_mask.png
+images/000099.tiff,test,1,0,benign/benign (189).png,train,benign,no malignant finding,masks/000099.tiff,"(544, 465)",benign/benign (189)_mask.png
+images/000100.tiff,train,1,0,benign/benign (19).png,train,benign,no malignant finding,masks/000100.tiff,"(663, 572)",benign/benign (19)_mask.png
+images/000101.tiff,train,1,0,benign/benign (190).png,train,benign,no malignant finding,masks/000101.tiff,"(734, 470)",benign/benign (190)_mask.png
+images/000102.tiff,test,1,0,benign/benign (191).png,train,benign,no malignant finding,masks/000102.tiff,"(549, 463)",benign/benign (191)_mask.png
+images/000103.tiff,train,1,0,benign/benign (192).png,train,benign,no malignant finding,masks/000103.tiff,"(557, 474)",benign/benign (192)_mask.png
+images/000104.tiff,train,1,0,benign/benign (193).png,train,benign,no malignant finding,masks/000104.tiff,"(754, 580)",benign/benign (193)_mask.png
+images/000105.tiff,test,1,0,benign/benign (194).png,train,benign,no malignant finding,masks/000105.tiff,"(711, 492)",benign/benign (194)_mask.png
+images/000106.tiff,test,1,0,benign/benign (195).png,train,benign,no malignant finding,masks/000106.tiff,"(729, 611)",benign/benign (195)_mask.png
+images/000107.tiff,train,1,0,benign/benign (196).png,train,benign,no malignant finding,masks/000107.tiff,"(766, 580)",benign/benign (196)_mask.png
+images/000108.tiff,train,1,0,benign/benign (197).png,train,benign,no malignant finding,masks/000108.tiff,"(547, 465)",benign/benign (197)_mask.png
+images/000109.tiff,train,1,0,benign/benign (198).png,train,benign,no malignant finding,masks/000109.tiff,"(759, 571)",benign/benign (198)_mask.png
+images/000110.tiff,train,1,0,benign/benign (199).png,train,benign,no malignant finding,masks/000110.tiff,"(556, 473)",benign/benign (199)_mask.png
+images/000111.tiff,train,1,0,benign/benign (2).png,train,benign,no malignant finding,masks/000111.tiff,"(557, 473)",benign/benign (2)_mask.png
+images/000112.tiff,val,1,0,benign/benign (20).png,train,benign,no malignant finding,masks/000112.tiff,"(319, 473)",benign/benign (20)_mask.png
+images/000113.tiff,train,1,0,benign/benign (200).png,train,benign,no malignant finding,masks/000113.tiff,"(554, 473)",benign/benign (200)_mask.png
+images/000114.tiff,train,1,0,benign/benign (201).png,train,benign,no malignant finding,masks/000114.tiff,"(556, 474)",benign/benign (201)_mask.png
+images/000115.tiff,train,1,0,benign/benign (202).png,train,benign,no malignant finding,masks/000115.tiff,"(552, 469)",benign/benign (202)_mask.png
+images/000116.tiff,train,1,0,benign/benign (203).png,train,benign,no malignant finding,masks/000116.tiff,"(569, 471)",benign/benign (203)_mask.png
+images/000117.tiff,train,1,0,benign/benign (204).png,train,benign,no malignant finding,masks/000117.tiff,"(560, 476)",benign/benign (204)_mask.png
+images/000118.tiff,train,1,0,benign/benign (205).png,train,benign,no malignant finding,masks/000118.tiff,"(557, 477)",benign/benign (205)_mask.png
+images/000119.tiff,train,1,0,benign/benign (206).png,train,benign,no malignant finding,masks/000119.tiff,"(569, 485)",benign/benign (206)_mask.png
+images/000120.tiff,train,1,0,benign/benign (207).png,train,benign,no malignant finding,masks/000120.tiff,"(562, 481)",benign/benign (207)_mask.png
+images/000121.tiff,test,1,0,benign/benign (208).png,train,benign,no malignant finding,masks/000121.tiff,"(562, 479)",benign/benign (208)_mask.png
+images/000122.tiff,val,1,0,benign/benign (209).png,train,benign,no malignant finding,masks/000122.tiff,"(558, 477)",benign/benign (209)_mask.png
+images/000123.tiff,val,1,0,benign/benign (21).png,train,benign,no malignant finding,masks/000123.tiff,"(558, 451)",benign/benign (21)_mask.png
+images/000124.tiff,train,1,0,benign/benign (210).png,train,benign,no malignant finding,masks/000124.tiff,"(563, 471)",benign/benign (210)_mask.png
+images/000125.tiff,train,1,0,benign/benign (211).png,train,benign,no malignant finding,masks/000125.tiff,"(557, 465)",benign/benign (211)_mask.png
+images/000126.tiff,train,1,0,benign/benign (212).png,train,benign,no malignant finding,masks/000126.tiff,"(558, 469)",benign/benign (212)_mask.png
+images/000127.tiff,train,1,0,benign/benign (213).png,train,benign,no malignant finding,masks/000127.tiff,"(573, 486)",benign/benign (213)_mask.png
+images/000128.tiff,test,1,0,benign/benign (214).png,train,benign,no malignant finding,masks/000128.tiff,"(602, 396)",benign/benign (214)_mask.png
+images/000129.tiff,val,1,0,benign/benign (215).png,train,benign,no malignant finding,masks/000129.tiff,"(600, 396)",benign/benign (215)_mask.png
+images/000130.tiff,test,1,0,benign/benign (216).png,train,benign,no malignant finding,masks/000130.tiff,"(646, 386)",benign/benign (216)_mask.png
+images/000131.tiff,train,1,0,benign/benign (217).png,train,benign,no malignant finding,masks/000131.tiff,"(603, 396)",benign/benign (217)_mask.png
+images/000132.tiff,train,1,0,benign/benign (218).png,train,benign,no malignant finding,masks/000132.tiff,"(602, 396)",benign/benign (218)_mask.png
+images/000133.tiff,train,1,0,benign/benign (219).png,train,benign,no malignant finding,masks/000133.tiff,"(608, 396)",benign/benign (219)_mask.png
+images/000134.tiff,test,1,0,benign/benign (22).png,train,benign,no malignant finding,masks/000134.tiff,"(562, 463)",benign/benign (22)_mask.png
+images/000135.tiff,train,1,0,benign/benign (220).png,train,benign,no malignant finding,masks/000135.tiff,"(609, 396)",benign/benign (220)_mask.png
+images/000136.tiff,train,1,0,benign/benign (221).png,train,benign,no malignant finding,masks/000136.tiff,"(610, 394)",benign/benign (221)_mask.png
+images/000137.tiff,train,1,0,benign/benign (222).png,train,benign,no malignant finding,masks/000137.tiff,"(605, 392)",benign/benign (222)_mask.png
+images/000138.tiff,test,1,0,benign/benign (223).png,train,benign,no malignant finding,masks/000138.tiff,"(562, 465)",benign/benign (223)_mask.png
+images/000139.tiff,train,1,0,benign/benign (224).png,train,benign,no malignant finding,masks/000139.tiff,"(568, 469)",benign/benign (224)_mask.png
+images/000140.tiff,train,1,0,benign/benign (225).png,train,benign,no malignant finding,masks/000140.tiff,"(558, 473)",benign/benign (225)_mask.png
+images/000141.tiff,train,1,0,benign/benign (226).png,train,benign,no malignant finding,masks/000141.tiff,"(555, 469)",benign/benign (226)_mask.png
+images/000142.tiff,train,1,0,benign/benign (227).png,train,benign,no malignant finding,masks/000142.tiff,"(567, 468)",benign/benign (227)_mask.png
+images/000143.tiff,val,1,0,benign/benign (228).png,train,benign,no malignant finding,masks/000143.tiff,"(563, 469)",benign/benign (228)_mask.png
+images/000144.tiff,train,1,0,benign/benign (229).png,train,benign,no malignant finding,masks/000144.tiff,"(564, 470)",benign/benign (229)_mask.png
+images/000145.tiff,train,1,0,benign/benign (23).png,train,benign,no malignant finding,masks/000145.tiff,"(779, 583)",benign/benign (23)_mask.png
+images/000146.tiff,val,1,0,benign/benign (230).png,train,benign,no malignant finding,masks/000146.tiff,"(566, 470)",benign/benign (230)_mask.png
+images/000147.tiff,val,1,0,benign/benign (231).png,train,benign,no malignant finding,masks/000147.tiff,"(561, 472)",benign/benign (231)_mask.png
+images/000148.tiff,train,1,0,benign/benign (232).png,train,benign,no malignant finding,masks/000148.tiff,"(562, 469)",benign/benign (232)_mask.png
+images/000149.tiff,train,1,0,benign/benign (233).png,train,benign,no malignant finding,masks/000149.tiff,"(557, 471)",benign/benign (233)_mask.png
+images/000150.tiff,val,1,0,benign/benign (234).png,train,benign,no malignant finding,masks/000150.tiff,"(562, 469)",benign/benign (234)_mask.png
+images/000151.tiff,train,1,0,benign/benign (235).png,train,benign,no malignant finding,masks/000151.tiff,"(560, 468)",benign/benign (235)_mask.png
+images/000152.tiff,train,1,0,benign/benign (236).png,train,benign,no malignant finding,masks/000152.tiff,"(566, 469)",benign/benign (236)_mask.png
+images/000153.tiff,train,1,0,benign/benign (237).png,train,benign,no malignant finding,masks/000153.tiff,"(558, 473)",benign/benign (237)_mask.png
+images/000154.tiff,train,1,0,benign/benign (238).png,train,benign,no malignant finding,masks/000154.tiff,"(556, 469)",benign/benign (238)_mask.png
+images/000155.tiff,train,1,0,benign/benign (239).png,train,benign,no malignant finding,masks/000155.tiff,"(560, 473)",benign/benign (239)_mask.png
+images/000156.tiff,test,1,0,benign/benign (24).png,train,benign,no malignant finding,masks/000156.tiff,"(556, 467)",benign/benign (24)_mask.png
+images/000157.tiff,train,1,0,benign/benign (240).png,train,benign,no malignant finding,masks/000157.tiff,"(556, 473)",benign/benign (240)_mask.png
+images/000158.tiff,train,1,0,benign/benign (241).png,train,benign,no malignant finding,masks/000158.tiff,"(562, 471)",benign/benign (241)_mask.png
+images/000159.tiff,test,1,0,benign/benign (242).png,train,benign,no malignant finding,masks/000159.tiff,"(556, 474)",benign/benign (242)_mask.png
+images/000160.tiff,test,1,0,benign/benign (243).png,train,benign,no malignant finding,masks/000160.tiff,"(561, 473)",benign/benign (243)_mask.png
+images/000161.tiff,test,1,0,benign/benign (244).png,train,benign,no malignant finding,masks/000161.tiff,"(561, 475)",benign/benign (244)_mask.png
+images/000162.tiff,train,1,0,benign/benign (245).png,train,benign,no malignant finding,masks/000162.tiff,"(560, 465)",benign/benign (245)_mask.png
+images/000163.tiff,train,1,0,benign/benign (246).png,train,benign,no malignant finding,masks/000163.tiff,"(526, 331)",benign/benign (246)_mask.png
+images/000164.tiff,train,1,0,benign/benign (247).png,train,benign,no malignant finding,masks/000164.tiff,"(469, 396)",benign/benign (247)_mask.png
+images/000165.tiff,train,1,0,benign/benign (248).png,train,benign,no malignant finding,masks/000165.tiff,"(472, 385)",benign/benign (248)_mask.png
+images/000166.tiff,test,1,0,benign/benign (249).png,train,benign,no malignant finding,masks/000166.tiff,"(465, 395)",benign/benign (249)_mask.png
+images/000167.tiff,train,1,0,benign/benign (25).png,train,benign,no malignant finding,masks/000167.tiff,"(770, 583)",benign/benign (25)_mask.png
+images/000168.tiff,train,1,0,benign/benign (250).png,train,benign,no malignant finding,masks/000168.tiff,"(469, 394)",benign/benign (250)_mask.png
+images/000169.tiff,train,1,0,benign/benign (251).png,train,benign,no malignant finding,masks/000169.tiff,"(467, 387)",benign/benign (251)_mask.png
+images/000170.tiff,test,1,0,benign/benign (252).png,train,benign,no malignant finding,masks/000170.tiff,"(473, 398)",benign/benign (252)_mask.png
+images/000171.tiff,train,1,0,benign/benign (253).png,train,benign,no malignant finding,masks/000171.tiff,"(463, 383)",benign/benign (253)_mask.png
+images/000172.tiff,train,1,0,benign/benign (254).png,train,benign,no malignant finding,masks/000172.tiff,"(473, 389)",benign/benign (254)_mask.png
+images/000173.tiff,train,1,0,benign/benign (255).png,train,benign,no malignant finding,masks/000173.tiff,"(473, 389)",benign/benign (255)_mask.png
+images/000174.tiff,train,1,0,benign/benign (256).png,train,benign,no malignant finding,masks/000174.tiff,"(469, 395)",benign/benign (256)_mask.png
+images/000175.tiff,train,1,0,benign/benign (257).png,train,benign,no malignant finding,masks/000175.tiff,"(467, 392)",benign/benign (257)_mask.png
+images/000176.tiff,train,1,0,benign/benign (258).png,train,benign,no malignant finding,masks/000176.tiff,"(462, 389)",benign/benign (258)_mask.png
+images/000177.tiff,train,1,0,benign/benign (259).png,train,benign,no malignant finding,masks/000177.tiff,"(465, 390)",benign/benign (259)_mask.png
+images/000178.tiff,train,1,0,benign/benign (26).png,train,benign,no malignant finding,masks/000178.tiff,"(554, 471)",benign/benign (26)_mask.png
+images/000179.tiff,train,1,0,benign/benign (260).png,train,benign,no malignant finding,masks/000179.tiff,"(498, 331)",benign/benign (260)_mask.png
+images/000180.tiff,train,1,0,benign/benign (261).png,train,benign,no malignant finding,masks/000180.tiff,"(469, 386)",benign/benign (261)_mask.png
+images/000181.tiff,train,1,0,benign/benign (262).png,train,benign,no malignant finding,masks/000181.tiff,"(471, 401)",benign/benign (262)_mask.png
+images/000182.tiff,train,1,0,benign/benign (263).png,train,benign,no malignant finding,masks/000182.tiff,"(465, 390)",benign/benign (263)_mask.png
+images/000183.tiff,val,1,0,benign/benign (264).png,train,benign,no malignant finding,masks/000183.tiff,"(462, 391)",benign/benign (264)_mask.png
+images/000184.tiff,train,1,0,benign/benign (265).png,train,benign,no malignant finding,masks/000184.tiff,"(544, 328)",benign/benign (265)_mask.png
+images/000185.tiff,train,1,0,benign/benign (266).png,train,benign,no malignant finding,masks/000185.tiff,"(462, 389)",benign/benign (266)_mask.png
+images/000186.tiff,val,1,0,benign/benign (267).png,train,benign,no malignant finding,masks/000186.tiff,"(500, 327)",benign/benign (267)_mask.png
+images/000187.tiff,test,1,0,benign/benign (268).png,train,benign,no malignant finding,masks/000187.tiff,"(506, 330)",benign/benign (268)_mask.png
+images/000188.tiff,train,1,0,benign/benign (269).png,train,benign,no malignant finding,masks/000188.tiff,"(465, 390)",benign/benign (269)_mask.png
+images/000189.tiff,test,1,0,benign/benign (27).png,train,benign,no malignant finding,masks/000189.tiff,"(774, 576)",benign/benign (27)_mask.png
+images/000190.tiff,train,1,0,benign/benign (270).png,train,benign,no malignant finding,masks/000190.tiff,"(500, 328)",benign/benign (270)_mask.png
+images/000191.tiff,test,1,0,benign/benign (271).png,train,benign,no malignant finding,masks/000191.tiff,"(510, 324)",benign/benign (271)_mask.png
+images/000192.tiff,train,1,0,benign/benign (272).png,train,benign,no malignant finding,masks/000192.tiff,"(498, 326)",benign/benign (272)_mask.png
+images/000193.tiff,train,1,0,benign/benign (273).png,train,benign,no malignant finding,masks/000193.tiff,"(560, 469)",benign/benign (273)_mask.png
+images/000194.tiff,train,1,0,benign/benign (274).png,train,benign,no malignant finding,masks/000194.tiff,"(556, 471)",benign/benign (274)_mask.png
+images/000195.tiff,train,1,0,benign/benign (275).png,train,benign,no malignant finding,masks/000195.tiff,"(556, 463)",benign/benign (275)_mask.png
+images/000196.tiff,train,1,0,benign/benign (276).png,train,benign,no malignant finding,masks/000196.tiff,"(550, 474)",benign/benign (276)_mask.png
+images/000197.tiff,val,1,0,benign/benign (277).png,train,benign,no malignant finding,masks/000197.tiff,"(556, 469)",benign/benign (277)_mask.png
+images/000198.tiff,train,1,0,benign/benign (278).png,train,benign,no malignant finding,masks/000198.tiff,"(561, 464)",benign/benign (278)_mask.png
+images/000199.tiff,train,1,0,benign/benign (279).png,train,benign,no malignant finding,masks/000199.tiff,"(551, 467)",benign/benign (279)_mask.png
+images/000200.tiff,test,1,0,benign/benign (28).png,train,benign,no malignant finding,masks/000200.tiff,"(841, 696)",benign/benign (28)_mask.png
+images/000201.tiff,test,1,0,benign/benign (280).png,train,benign,no malignant finding,masks/000201.tiff,"(556, 471)",benign/benign (280)_mask.png
+images/000202.tiff,val,1,0,benign/benign (281).png,train,benign,no malignant finding,masks/000202.tiff,"(605, 392)",benign/benign (281)_mask.png
+images/000203.tiff,train,1,0,benign/benign (282).png,train,benign,no malignant finding,masks/000203.tiff,"(560, 465)",benign/benign (282)_mask.png
+images/000204.tiff,train,1,0,benign/benign (283).png,train,benign,no malignant finding,masks/000204.tiff,"(621, 508)",benign/benign (283)_mask.png
+images/000205.tiff,test,1,0,benign/benign (284).png,train,benign,no malignant finding,masks/000205.tiff,"(622, 497)",benign/benign (284)_mask.png
+images/000206.tiff,test,1,0,benign/benign (285).png,train,benign,no malignant finding,masks/000206.tiff,"(625, 494)",benign/benign (285)_mask.png
+images/000207.tiff,train,1,0,benign/benign (286).png,train,benign,no malignant finding,masks/000207.tiff,"(620, 490)",benign/benign (286)_mask.png
+images/000208.tiff,train,1,0,benign/benign (287).png,train,benign,no malignant finding,masks/000208.tiff,"(466, 390)",benign/benign (287)_mask.png
+images/000209.tiff,train,1,0,benign/benign (288).png,train,benign,no malignant finding,masks/000209.tiff,"(463, 390)",benign/benign (288)_mask.png
+images/000210.tiff,train,1,0,benign/benign (289).png,train,benign,no malignant finding,masks/000210.tiff,"(468, 393)",benign/benign (289)_mask.png
+images/000211.tiff,train,1,0,benign/benign (29).png,train,benign,no malignant finding,masks/000211.tiff,"(561, 462)",benign/benign (29)_mask.png
+images/000212.tiff,train,1,0,benign/benign (290).png,train,benign,no malignant finding,masks/000212.tiff,"(465, 389)",benign/benign (290)_mask.png
+images/000213.tiff,train,1,0,benign/benign (291).png,train,benign,no malignant finding,masks/000213.tiff,"(462, 404)",benign/benign (291)_mask.png
+images/000214.tiff,test,1,0,benign/benign (292).png,train,benign,no malignant finding,masks/000214.tiff,"(460, 391)",benign/benign (292)_mask.png
+images/000215.tiff,train,1,0,benign/benign (293).png,train,benign,no malignant finding,masks/000215.tiff,"(473, 389)",benign/benign (293)_mask.png
+images/000216.tiff,test,1,0,benign/benign (294).png,train,benign,no malignant finding,masks/000216.tiff,"(469, 394)",benign/benign (294)_mask.png
+images/000217.tiff,test,1,0,benign/benign (295).png,train,benign,no malignant finding,masks/000217.tiff,"(472, 387)",benign/benign (295)_mask.png
+images/000218.tiff,train,1,0,benign/benign (296).png,train,benign,no malignant finding,masks/000218.tiff,"(503, 328)",benign/benign (296)_mask.png
+images/000219.tiff,val,1,0,benign/benign (297).png,train,benign,no malignant finding,masks/000219.tiff,"(467, 390)",benign/benign (297)_mask.png
+images/000220.tiff,train,1,0,benign/benign (298).png,train,benign,no malignant finding,masks/000220.tiff,"(466, 391)",benign/benign (298)_mask.png
+images/000221.tiff,train,1,0,benign/benign (299).png,train,benign,no malignant finding,masks/000221.tiff,"(463, 392)",benign/benign (299)_mask.png
+images/000222.tiff,train,1,0,benign/benign (3).png,train,benign,no malignant finding,masks/000222.tiff,"(558, 471)",benign/benign (3)_mask.png
+images/000223.tiff,train,1,0,benign/benign (30).png,train,benign,no malignant finding,masks/000223.tiff,"(557, 462)",benign/benign (30)_mask.png
+images/000224.tiff,val,1,0,benign/benign (300).png,train,benign,no malignant finding,masks/000224.tiff,"(463, 387)",benign/benign (300)_mask.png
+images/000225.tiff,train,1,0,benign/benign (301).png,train,benign,no malignant finding,masks/000225.tiff,"(463, 383)",benign/benign (301)_mask.png
+images/000226.tiff,train,1,0,benign/benign (302).png,train,benign,no malignant finding,masks/000226.tiff,"(466, 390)",benign/benign (302)_mask.png
+images/000227.tiff,train,1,0,benign/benign (303).png,train,benign,no malignant finding,masks/000227.tiff,"(463, 398)",benign/benign (303)_mask.png
+images/000228.tiff,train,1,0,benign/benign (304).png,train,benign,no malignant finding,masks/000228.tiff,"(467, 387)",benign/benign (304)_mask.png
+images/000229.tiff,train,1,0,benign/benign (305).png,train,benign,no malignant finding,masks/000229.tiff,"(466, 389)",benign/benign (305)_mask.png
+images/000230.tiff,test,1,0,benign/benign (306).png,train,benign,no malignant finding,masks/000230.tiff,"(471, 386)",benign/benign (306)_mask.png
+images/000231.tiff,train,1,0,benign/benign (307).png,train,benign,no malignant finding,masks/000231.tiff,"(775, 587)",benign/benign (307)_mask.png
+images/000232.tiff,val,1,0,benign/benign (308).png,train,benign,no malignant finding,masks/000232.tiff,"(552, 468)",benign/benign (308)_mask.png
+images/000233.tiff,val,1,0,benign/benign (309).png,train,benign,no malignant finding,masks/000233.tiff,"(769, 487)",benign/benign (309)_mask.png
+images/000234.tiff,train,1,0,benign/benign (31).png,train,benign,no malignant finding,masks/000234.tiff,"(557, 467)",benign/benign (31)_mask.png
+images/000235.tiff,train,1,0,benign/benign (310).png,train,benign,no malignant finding,masks/000235.tiff,"(544, 468)",benign/benign (310)_mask.png
+images/000236.tiff,train,1,0,benign/benign (311).png,train,benign,no malignant finding,masks/000236.tiff,"(549, 496)",benign/benign (311)_mask.png
+images/000237.tiff,train,1,0,benign/benign (312).png,train,benign,no malignant finding,masks/000237.tiff,"(552, 490)",benign/benign (312)_mask.png
+images/000238.tiff,train,1,0,benign/benign (313).png,train,benign,no malignant finding,masks/000238.tiff,"(555, 468)",benign/benign (313)_mask.png
+images/000239.tiff,train,1,0,benign/benign (314).png,train,benign,no malignant finding,masks/000239.tiff,"(554, 493)",benign/benign (314)_mask.png
+images/000240.tiff,test,1,0,benign/benign (315).png,train,benign,no malignant finding,masks/000240.tiff,"(551, 470)",benign/benign (315)_mask.png
+images/000241.tiff,test,1,0,benign/benign (316).png,train,benign,no malignant finding,masks/000241.tiff,"(550, 469)",benign/benign (316)_mask.png
+images/000242.tiff,test,1,0,benign/benign (317).png,train,benign,no malignant finding,masks/000242.tiff,"(551, 491)",benign/benign (317)_mask.png
+images/000243.tiff,test,1,0,benign/benign (318).png,train,benign,no malignant finding,masks/000243.tiff,"(554, 465)",benign/benign (318)_mask.png
+images/000244.tiff,train,1,0,benign/benign (319).png,train,benign,no malignant finding,masks/000244.tiff,"(560, 467)",benign/benign (319)_mask.png
+images/000245.tiff,train,1,0,benign/benign (32).png,train,benign,no malignant finding,masks/000245.tiff,"(656, 611)",benign/benign (32)_mask.png
+images/000246.tiff,val,1,0,benign/benign (320).png,train,benign,no malignant finding,masks/000246.tiff,"(558, 475)",benign/benign (320)_mask.png
+images/000247.tiff,train,1,0,benign/benign (321).png,train,benign,no malignant finding,masks/000247.tiff,"(546, 467)",benign/benign (321)_mask.png
+images/000248.tiff,train,1,0,benign/benign (322).png,train,benign,no malignant finding,masks/000248.tiff,"(555, 491)",benign/benign (322)_mask.png
+images/000249.tiff,train,1,0,benign/benign (323).png,train,benign,no malignant finding,masks/000249.tiff,"(560, 468)",benign/benign (323)_mask.png
+images/000250.tiff,train,1,0,benign/benign (324).png,train,benign,no malignant finding,masks/000250.tiff,"(626, 583)",benign/benign (324)_mask.png
+images/000251.tiff,test,1,0,benign/benign (325).png,train,benign,no malignant finding,masks/000251.tiff,"(613, 583)",benign/benign (325)_mask.png
+images/000252.tiff,test,1,0,benign/benign (326).png,train,benign,no malignant finding,masks/000252.tiff,"(754, 619)",benign/benign (326)_mask.png
+images/000253.tiff,val,1,0,benign/benign (327).png,train,benign,no malignant finding,masks/000253.tiff,"(689, 578)",benign/benign (327)_mask.png
+images/000254.tiff,train,1,0,benign/benign (328).png,train,benign,no malignant finding,masks/000254.tiff,"(685, 567)",benign/benign (328)_mask.png
+images/000255.tiff,train,1,0,benign/benign (329).png,train,benign,no malignant finding,masks/000255.tiff,"(665, 576)",benign/benign (329)_mask.png
+images/000256.tiff,train,1,0,benign/benign (33).png,train,benign,no malignant finding,masks/000256.tiff,"(556, 468)",benign/benign (33)_mask.png
+images/000257.tiff,train,1,0,benign/benign (330).png,train,benign,no malignant finding,masks/000257.tiff,"(669, 567)",benign/benign (330)_mask.png
+images/000258.tiff,val,1,0,benign/benign (331).png,train,benign,no malignant finding,masks/000258.tiff,"(695, 527)",benign/benign (331)_mask.png
+images/000259.tiff,train,1,0,benign/benign (332).png,train,benign,no malignant finding,masks/000259.tiff,"(703, 531)",benign/benign (332)_mask.png
+images/000260.tiff,train,1,0,benign/benign (333).png,train,benign,no malignant finding,masks/000260.tiff,"(777, 569)",benign/benign (333)_mask.png
+images/000261.tiff,train,1,0,benign/benign (334).png,train,benign,no malignant finding,masks/000261.tiff,"(589, 426)",benign/benign (334)_mask.png
+images/000262.tiff,val,1,0,benign/benign (335).png,train,benign,no malignant finding,masks/000262.tiff,"(681, 559)",benign/benign (335)_mask.png
+images/000263.tiff,train,1,0,benign/benign (336).png,train,benign,no malignant finding,masks/000263.tiff,"(783, 585)",benign/benign (336)_mask.png
+images/000264.tiff,train,1,0,benign/benign (337).png,train,benign,no malignant finding,masks/000264.tiff,"(555, 487)",benign/benign (337)_mask.png
+images/000265.tiff,train,1,0,benign/benign (338).png,train,benign,no malignant finding,masks/000265.tiff,"(611, 382)",benign/benign (338)_mask.png
+images/000266.tiff,train,1,0,benign/benign (339).png,train,benign,no malignant finding,masks/000266.tiff,"(557, 465)",benign/benign (339)_mask.png
+images/000267.tiff,val,1,0,benign/benign (34).png,train,benign,no malignant finding,masks/000267.tiff,"(558, 471)",benign/benign (34)_mask.png
+images/000268.tiff,train,1,0,benign/benign (340).png,train,benign,no malignant finding,masks/000268.tiff,"(770, 425)",benign/benign (340)_mask.png
+images/000269.tiff,test,1,0,benign/benign (341).png,train,benign,no malignant finding,masks/000269.tiff,"(683, 562)",benign/benign (341)_mask.png
+images/000270.tiff,test,1,0,benign/benign (342).png,train,benign,no malignant finding,masks/000270.tiff,"(581, 431)",benign/benign (342)_mask.png
+images/000271.tiff,train,1,0,benign/benign (343).png,train,benign,no malignant finding,masks/000271.tiff,"(564, 467)",benign/benign (343)_mask.png
+images/000272.tiff,train,1,0,benign/benign (344).png,train,benign,no malignant finding,masks/000272.tiff,"(576, 434)",benign/benign (344)_mask.png
+images/000273.tiff,test,1,0,benign/benign (345).png,train,benign,no malignant finding,masks/000273.tiff,"(566, 466)",benign/benign (345)_mask.png
+images/000274.tiff,train,1,0,benign/benign (346).png,train,benign,no malignant finding,masks/000274.tiff,"(610, 373)",benign/benign (346)_mask.png
+images/000275.tiff,train,1,0,benign/benign (347).png,train,benign,no malignant finding,masks/000275.tiff,"(605, 683)",benign/benign (347)_mask.png
+images/000276.tiff,test,1,0,benign/benign (348).png,train,benign,no malignant finding,masks/000276.tiff,"(1028, 565)",benign/benign (348)_mask.png
+images/000277.tiff,train,1,0,benign/benign (349).png,train,benign,no malignant finding,masks/000277.tiff,"(555, 471)",benign/benign (349)_mask.png
+images/000278.tiff,train,1,0,benign/benign (35).png,train,benign,no malignant finding,masks/000278.tiff,"(556, 476)",benign/benign (35)_mask.png
+images/000279.tiff,val,1,0,benign/benign (350).png,train,benign,no malignant finding,masks/000279.tiff,"(786, 580)",benign/benign (350)_mask.png
+images/000280.tiff,train,1,0,benign/benign (351).png,train,benign,no malignant finding,masks/000280.tiff,"(585, 429)",benign/benign (351)_mask.png
+images/000281.tiff,train,1,0,benign/benign (352).png,train,benign,no malignant finding,masks/000281.tiff,"(573, 428)",benign/benign (352)_mask.png
+images/000282.tiff,val,1,0,benign/benign (353).png,train,benign,no malignant finding,masks/000282.tiff,"(680, 583)",benign/benign (353)_mask.png
+images/000283.tiff,train,1,0,benign/benign (354).png,train,benign,no malignant finding,masks/000283.tiff,"(606, 605)",benign/benign (354)_mask.png
+images/000284.tiff,train,1,0,benign/benign (355).png,train,benign,no malignant finding,masks/000284.tiff,"(675, 562)",benign/benign (355)_mask.png
+images/000285.tiff,train,1,0,benign/benign (356).png,train,benign,no malignant finding,masks/000285.tiff,"(556, 468)",benign/benign (356)_mask.png
+images/000286.tiff,train,1,0,benign/benign (357).png,train,benign,no malignant finding,masks/000286.tiff,"(581, 429)",benign/benign (357)_mask.png
+images/000287.tiff,train,1,0,benign/benign (358).png,train,benign,no malignant finding,masks/000287.tiff,"(555, 467)",benign/benign (358)_mask.png
+images/000288.tiff,test,1,0,benign/benign (359).png,train,benign,no malignant finding,masks/000288.tiff,"(567, 462)",benign/benign (359)_mask.png
+images/000289.tiff,train,1,0,benign/benign (36).png,train,benign,no malignant finding,masks/000289.tiff,"(526, 474)",benign/benign (36)_mask.png
+images/000290.tiff,train,1,0,benign/benign (360).png,train,benign,no malignant finding,masks/000290.tiff,"(683, 574)",benign/benign (360)_mask.png
+images/000291.tiff,train,1,0,benign/benign (361).png,train,benign,no malignant finding,masks/000291.tiff,"(558, 470)",benign/benign (361)_mask.png
+images/000292.tiff,train,1,0,benign/benign (362).png,train,benign,no malignant finding,masks/000292.tiff,"(557, 464)",benign/benign (362)_mask.png
+images/000293.tiff,val,1,0,benign/benign (363).png,train,benign,no malignant finding,masks/000293.tiff,"(586, 433)",benign/benign (363)_mask.png
+images/000294.tiff,train,1,0,benign/benign (364).png,train,benign,no malignant finding,masks/000294.tiff,"(557, 465)",benign/benign (364)_mask.png
+images/000295.tiff,test,1,0,benign/benign (365).png,train,benign,no malignant finding,masks/000295.tiff,"(582, 431)",benign/benign (365)_mask.png
+images/000296.tiff,train,1,0,benign/benign (366).png,train,benign,no malignant finding,masks/000296.tiff,"(562, 463)",benign/benign (366)_mask.png
+images/000297.tiff,val,1,0,benign/benign (367).png,train,benign,no malignant finding,masks/000297.tiff,"(560, 462)",benign/benign (367)_mask.png
+images/000298.tiff,train,1,0,benign/benign (368).png,train,benign,no malignant finding,masks/000298.tiff,"(689, 575)",benign/benign (368)_mask.png
+images/000299.tiff,train,1,0,benign/benign (369).png,train,benign,no malignant finding,masks/000299.tiff,"(772, 581)",benign/benign (369)_mask.png
+images/000300.tiff,train,1,0,benign/benign (37).png,train,benign,no malignant finding,masks/000300.tiff,"(557, 468)",benign/benign (37)_mask.png
+images/000301.tiff,train,1,0,benign/benign (370).png,train,benign,no malignant finding,masks/000301.tiff,"(549, 458)",benign/benign (370)_mask.png
+images/000302.tiff,train,1,0,benign/benign (371).png,train,benign,no malignant finding,masks/000302.tiff,"(756, 589)",benign/benign (371)_mask.png
+images/000303.tiff,val,1,0,benign/benign (372).png,train,benign,no malignant finding,masks/000303.tiff,"(544, 469)",benign/benign (372)_mask.png
+images/000304.tiff,train,1,0,benign/benign (373).png,train,benign,no malignant finding,masks/000304.tiff,"(555, 457)",benign/benign (373)_mask.png
+images/000305.tiff,train,1,0,benign/benign (374).png,train,benign,no malignant finding,masks/000305.tiff,"(544, 468)",benign/benign (374)_mask.png
+images/000306.tiff,train,1,0,benign/benign (375).png,train,benign,no malignant finding,masks/000306.tiff,"(775, 571)",benign/benign (375)_mask.png
+images/000307.tiff,train,1,0,benign/benign (376).png,train,benign,no malignant finding,masks/000307.tiff,"(546, 467)",benign/benign (376)_mask.png
+images/000308.tiff,test,1,0,benign/benign (377).png,train,benign,no malignant finding,masks/000308.tiff,"(752, 578)",benign/benign (377)_mask.png
+images/000309.tiff,train,1,0,benign/benign (378).png,train,benign,no malignant finding,masks/000309.tiff,"(548, 464)",benign/benign (378)_mask.png
+images/000310.tiff,train,1,0,benign/benign (379).png,train,benign,no malignant finding,masks/000310.tiff,"(1010, 583)",benign/benign (379)_mask.png
+images/000311.tiff,train,1,0,benign/benign (38).png,train,benign,no malignant finding,masks/000311.tiff,"(550, 484)",benign/benign (38)_mask.png
+images/000312.tiff,train,1,0,benign/benign (380).png,train,benign,no malignant finding,masks/000312.tiff,"(750, 572)",benign/benign (380)_mask.png
+images/000313.tiff,test,1,0,benign/benign (381).png,train,benign,no malignant finding,masks/000313.tiff,"(747, 576)",benign/benign (381)_mask.png
+images/000314.tiff,train,1,0,benign/benign (382).png,train,benign,no malignant finding,masks/000314.tiff,"(730, 475)",benign/benign (382)_mask.png
+images/000315.tiff,test,1,0,benign/benign (383).png,train,benign,no malignant finding,masks/000315.tiff,"(552, 493)",benign/benign (383)_mask.png
+images/000316.tiff,train,1,0,benign/benign (384).png,train,benign,no malignant finding,masks/000316.tiff,"(760, 425)",benign/benign (384)_mask.png
+images/000317.tiff,val,1,0,benign/benign (385).png,train,benign,no malignant finding,masks/000317.tiff,"(551, 458)",benign/benign (385)_mask.png
+images/000318.tiff,train,1,0,benign/benign (386).png,train,benign,no malignant finding,masks/000318.tiff,"(768, 578)",benign/benign (386)_mask.png
+images/000319.tiff,train,1,0,benign/benign (387).png,train,benign,no malignant finding,masks/000319.tiff,"(549, 486)",benign/benign (387)_mask.png
+images/000320.tiff,train,1,0,benign/benign (388).png,train,benign,no malignant finding,masks/000320.tiff,"(763, 572)",benign/benign (388)_mask.png
+images/000321.tiff,train,1,0,benign/benign (389).png,train,benign,no malignant finding,masks/000321.tiff,"(927, 567)",benign/benign (389)_mask.png
+images/000322.tiff,train,1,0,benign/benign (39).png,train,benign,no malignant finding,masks/000322.tiff,"(578, 433)",benign/benign (39)_mask.png
+images/000323.tiff,train,1,0,benign/benign (390).png,train,benign,no malignant finding,masks/000323.tiff,"(779, 583)",benign/benign (390)_mask.png
+images/000324.tiff,train,1,0,benign/benign (391).png,train,benign,no malignant finding,masks/000324.tiff,"(687, 578)",benign/benign (391)_mask.png
+images/000325.tiff,val,1,0,benign/benign (392).png,train,benign,no malignant finding,masks/000325.tiff,"(729, 477)",benign/benign (392)_mask.png
+images/000326.tiff,train,1,0,benign/benign (393).png,train,benign,no malignant finding,masks/000326.tiff,"(685, 583)",benign/benign (393)_mask.png
+images/000327.tiff,train,1,0,benign/benign (394).png,train,benign,no malignant finding,masks/000327.tiff,"(558, 468)",benign/benign (394)_mask.png
+images/000328.tiff,train,1,0,benign/benign (395).png,train,benign,no malignant finding,masks/000328.tiff,"(615, 576)",benign/benign (395)_mask.png
+images/000329.tiff,train,1,0,benign/benign (396).png,train,benign,no malignant finding,masks/000329.tiff,"(420, 474)",benign/benign (396)_mask.png
+images/000330.tiff,test,1,0,benign/benign (397).png,train,benign,no malignant finding,masks/000330.tiff,"(554, 470)",benign/benign (397)_mask.png
+images/000331.tiff,train,1,0,benign/benign (398).png,train,benign,no malignant finding,masks/000331.tiff,"(563, 469)",benign/benign (398)_mask.png
+images/000332.tiff,train,1,0,benign/benign (399).png,train,benign,no malignant finding,masks/000332.tiff,"(555, 468)",benign/benign (399)_mask.png
+images/000333.tiff,train,1,0,benign/benign (4).png,train,benign,no malignant finding,masks/000333.tiff,"(555, 465)",benign/benign (4)_mask.png
+images/000334.tiff,train,1,0,benign/benign (40).png,train,benign,no malignant finding,masks/000334.tiff,"(706, 526)",benign/benign (40)_mask.png
+images/000335.tiff,train,1,0,benign/benign (400).png,train,benign,no malignant finding,masks/000335.tiff,"(779, 580)",benign/benign (400)_mask.png
+images/000336.tiff,train,1,0,benign/benign (401).png,train,benign,no malignant finding,masks/000336.tiff,"(557, 469)",benign/benign (401)_mask.png
+images/000337.tiff,test,1,0,benign/benign (402).png,train,benign,no malignant finding,masks/000337.tiff,"(561, 469)",benign/benign (402)_mask.png
+images/000338.tiff,train,1,0,benign/benign (403).png,train,benign,no malignant finding,masks/000338.tiff,"(549, 467)",benign/benign (403)_mask.png
+images/000339.tiff,test,1,0,benign/benign (404).png,train,benign,no malignant finding,masks/000339.tiff,"(772, 578)",benign/benign (404)_mask.png
+images/000340.tiff,train,1,0,benign/benign (405).png,train,benign,no malignant finding,masks/000340.tiff,"(566, 465)",benign/benign (405)_mask.png
+images/000341.tiff,train,1,0,benign/benign (406).png,train,benign,no malignant finding,masks/000341.tiff,"(563, 463)",benign/benign (406)_mask.png
+images/000342.tiff,train,1,0,benign/benign (407).png,train,benign,no malignant finding,masks/000342.tiff,"(560, 467)",benign/benign (407)_mask.png
+images/000343.tiff,test,1,0,benign/benign (408).png,train,benign,no malignant finding,masks/000343.tiff,"(554, 465)",benign/benign (408)_mask.png
+images/000344.tiff,train,1,0,benign/benign (409).png,train,benign,no malignant finding,masks/000344.tiff,"(558, 466)",benign/benign (409)_mask.png
+images/000345.tiff,test,1,0,benign/benign (41).png,train,benign,no malignant finding,masks/000345.tiff,"(550, 484)",benign/benign (41)_mask.png
+images/000346.tiff,train,1,0,benign/benign (410).png,train,benign,no malignant finding,masks/000346.tiff,"(558, 468)",benign/benign (410)_mask.png
+images/000347.tiff,val,1,0,benign/benign (411).png,train,benign,no malignant finding,masks/000347.tiff,"(602, 587)",benign/benign (411)_mask.png
+images/000348.tiff,val,1,0,benign/benign (412).png,train,benign,no malignant finding,masks/000348.tiff,"(779, 576)",benign/benign (412)_mask.png
+images/000349.tiff,train,1,0,benign/benign (413).png,train,benign,no malignant finding,masks/000349.tiff,"(433, 478)",benign/benign (413)_mask.png
+images/000350.tiff,train,1,0,benign/benign (414).png,train,benign,no malignant finding,masks/000350.tiff,"(812, 703)",benign/benign (414)_mask.png
+images/000351.tiff,train,1,0,benign/benign (415).png,train,benign,no malignant finding,masks/000351.tiff,"(781, 578)",benign/benign (415)_mask.png
+images/000352.tiff,train,1,0,benign/benign (416).png,train,benign,no malignant finding,masks/000352.tiff,"(878, 574)",benign/benign (416)_mask.png
+images/000353.tiff,train,1,0,benign/benign (417).png,train,benign,no malignant finding,masks/000353.tiff,"(599, 416)",benign/benign (417)_mask.png
+images/000354.tiff,train,1,0,benign/benign (418).png,train,benign,no malignant finding,masks/000354.tiff,"(607, 414)",benign/benign (418)_mask.png
+images/000355.tiff,train,1,0,benign/benign (419).png,train,benign,no malignant finding,masks/000355.tiff,"(772, 574)",benign/benign (419)_mask.png
+images/000356.tiff,train,1,0,benign/benign (42).png,train,benign,no malignant finding,masks/000356.tiff,"(581, 437)",benign/benign (42)_mask.png
+images/000357.tiff,train,1,0,benign/benign (420).png,train,benign,no malignant finding,masks/000357.tiff,"(768, 574)",benign/benign (420)_mask.png
+images/000358.tiff,val,1,0,benign/benign (421).png,train,benign,no malignant finding,masks/000358.tiff,"(551, 487)",benign/benign (421)_mask.png
+images/000359.tiff,train,1,0,benign/benign (422).png,train,benign,no malignant finding,masks/000359.tiff,"(768, 487)",benign/benign (422)_mask.png
+images/000360.tiff,train,1,0,benign/benign (423).png,train,benign,no malignant finding,masks/000360.tiff,"(561, 470)",benign/benign (423)_mask.png
+images/000361.tiff,train,1,0,benign/benign (424).png,train,benign,no malignant finding,masks/000361.tiff,"(544, 469)",benign/benign (424)_mask.png
+images/000362.tiff,train,1,0,benign/benign (425).png,train,benign,no malignant finding,masks/000362.tiff,"(544, 469)",benign/benign (425)_mask.png
+images/000363.tiff,train,1,0,benign/benign (426).png,train,benign,no malignant finding,masks/000363.tiff,"(549, 465)",benign/benign (426)_mask.png
+images/000364.tiff,train,1,0,benign/benign (427).png,train,benign,no malignant finding,masks/000364.tiff,"(780, 380)",benign/benign (427)_mask.png
+images/000365.tiff,train,1,0,benign/benign (428).png,train,benign,no malignant finding,masks/000365.tiff,"(769, 382)",benign/benign (428)_mask.png
+images/000366.tiff,test,1,0,benign/benign (429).png,train,benign,no malignant finding,masks/000366.tiff,"(582, 437)",benign/benign (429)_mask.png
+images/000367.tiff,train,1,0,benign/benign (43).png,train,benign,no malignant finding,masks/000367.tiff,"(554, 495)",benign/benign (43)_mask.png
+images/000368.tiff,train,1,0,benign/benign (430).png,train,benign,no malignant finding,masks/000368.tiff,"(768, 581)",benign/benign (430)_mask.png
+images/000369.tiff,train,1,0,benign/benign (431).png,train,benign,no malignant finding,masks/000369.tiff,"(582, 431)",benign/benign (431)_mask.png
+images/000370.tiff,train,1,0,benign/benign (432).png,train,benign,no malignant finding,masks/000370.tiff,"(469, 394)",benign/benign (432)_mask.png
+images/000371.tiff,train,1,0,benign/benign (433).png,train,benign,no malignant finding,masks/000371.tiff,"(550, 462)",benign/benign (433)_mask.png
+images/000372.tiff,test,1,0,benign/benign (434).png,train,benign,no malignant finding,masks/000372.tiff,"(501, 609)",benign/benign (434)_mask.png
+images/000373.tiff,val,1,0,benign/benign (435).png,train,benign,no malignant finding,masks/000373.tiff,"(552, 469)",benign/benign (435)_mask.png
+images/000374.tiff,train,1,0,benign/benign (436).png,train,benign,no malignant finding,masks/000374.tiff,"(502, 474)",benign/benign (436)_mask.png
+images/000375.tiff,train,1,0,benign/benign (437).png,train,benign,no malignant finding,masks/000375.tiff,"(768, 585)",benign/benign (437)_mask.png
+images/000376.tiff,val,1,0,benign/benign (44).png,train,benign,no malignant finding,masks/000376.tiff,"(777, 580)",benign/benign (44)_mask.png
+images/000377.tiff,train,1,0,benign/benign (45).png,train,benign,no malignant finding,masks/000377.tiff,"(775, 580)",benign/benign (45)_mask.png
+images/000378.tiff,test,1,0,benign/benign (46).png,train,benign,no malignant finding,masks/000378.tiff,"(561, 468)",benign/benign (46)_mask.png
+images/000379.tiff,test,1,0,benign/benign (47).png,train,benign,no malignant finding,masks/000379.tiff,"(763, 585)",benign/benign (47)_mask.png
+images/000380.tiff,train,1,0,benign/benign (48).png,train,benign,no malignant finding,masks/000380.tiff,"(775, 583)",benign/benign (48)_mask.png
+images/000381.tiff,train,1,0,benign/benign (49).png,train,benign,no malignant finding,masks/000381.tiff,"(777, 576)",benign/benign (49)_mask.png
+images/000382.tiff,train,1,0,benign/benign (5).png,train,benign,no malignant finding,masks/000382.tiff,"(549, 496)",benign/benign (5)_mask.png
+images/000383.tiff,train,1,0,benign/benign (50).png,train,benign,no malignant finding,masks/000383.tiff,"(884, 581)",benign/benign (50)_mask.png
+images/000384.tiff,val,1,0,benign/benign (51).png,train,benign,no malignant finding,masks/000384.tiff,"(357, 338)",benign/benign (51)_mask.png
+images/000385.tiff,test,1,0,benign/benign (52).png,train,benign,no malignant finding,masks/000385.tiff,"(370, 338)",benign/benign (52)_mask.png
+images/000386.tiff,val,1,0,benign/benign (53).png,train,benign,no malignant finding,masks/000386.tiff,"(552, 492)",benign/benign (53)_mask.png
+images/000387.tiff,test,1,0,benign/benign (54).png,train,benign,no malignant finding,masks/000387.tiff,"(616, 468)",benign/benign (54)_mask.png
+images/000388.tiff,train,1,0,benign/benign (55).png,train,benign,no malignant finding,masks/000388.tiff,"(763, 614)",benign/benign (55)_mask.png
+images/000389.tiff,test,1,0,benign/benign (56).png,train,benign,no malignant finding,masks/000389.tiff,"(806, 711)",benign/benign (56)_mask.png
+images/000390.tiff,train,1,0,benign/benign (57).png,train,benign,no malignant finding,masks/000390.tiff,"(555, 470)",benign/benign (57)_mask.png
+images/000391.tiff,test,1,0,benign/benign (58).png,train,benign,no malignant finding,masks/000391.tiff,"(781, 572)",benign/benign (58)_mask.png
+images/000392.tiff,test,1,0,benign/benign (59).png,train,benign,no malignant finding,masks/000392.tiff,"(563, 468)",benign/benign (59)_mask.png
+images/000393.tiff,train,1,0,benign/benign (6).png,train,benign,no malignant finding,masks/000393.tiff,"(558, 467)",benign/benign (6)_mask.png
+images/000394.tiff,train,1,0,benign/benign (60).png,train,benign,no malignant finding,masks/000394.tiff,"(759, 598)",benign/benign (60)_mask.png
+images/000395.tiff,train,1,0,benign/benign (61).png,train,benign,no malignant finding,masks/000395.tiff,"(773, 578)",benign/benign (61)_mask.png
+images/000396.tiff,train,1,0,benign/benign (62).png,train,benign,no malignant finding,masks/000396.tiff,"(389, 594)",benign/benign (62)_mask.png
+images/000397.tiff,test,1,0,benign/benign (63).png,train,benign,no malignant finding,masks/000397.tiff,"(608, 660)",benign/benign (63)_mask.png
+images/000398.tiff,train,1,0,benign/benign (64).png,train,benign,no malignant finding,masks/000398.tiff,"(610, 471)",benign/benign (64)_mask.png
+images/000399.tiff,train,1,0,benign/benign (65).png,train,benign,no malignant finding,masks/000399.tiff,"(564, 474)",benign/benign (65)_mask.png
+images/000400.tiff,val,1,0,benign/benign (66).png,train,benign,no malignant finding,masks/000400.tiff,"(562, 473)",benign/benign (66)_mask.png
+images/000401.tiff,test,1,0,benign/benign (67).png,train,benign,no malignant finding,masks/000401.tiff,"(516, 467)",benign/benign (67)_mask.png
+images/000402.tiff,val,1,0,benign/benign (68).png,train,benign,no malignant finding,masks/000402.tiff,"(682, 587)",benign/benign (68)_mask.png
+images/000403.tiff,train,1,0,benign/benign (69).png,train,benign,no malignant finding,masks/000403.tiff,"(811, 719)",benign/benign (69)_mask.png
+images/000404.tiff,train,1,0,benign/benign (7).png,train,benign,no malignant finding,masks/000404.tiff,"(624, 578)",benign/benign (7)_mask.png
+images/000405.tiff,train,1,0,benign/benign (70).png,train,benign,no malignant finding,masks/000405.tiff,"(713, 475)",benign/benign (70)_mask.png
+images/000406.tiff,test,1,0,benign/benign (71).png,train,benign,no malignant finding,masks/000406.tiff,"(554, 469)",benign/benign (71)_mask.png
+images/000407.tiff,train,1,0,benign/benign (72).png,train,benign,no malignant finding,masks/000407.tiff,"(557, 465)",benign/benign (72)_mask.png
+images/000408.tiff,train,1,0,benign/benign (73).png,train,benign,no malignant finding,masks/000408.tiff,"(557, 471)",benign/benign (73)_mask.png
+images/000409.tiff,train,1,0,benign/benign (74).png,train,benign,no malignant finding,masks/000409.tiff,"(561, 467)",benign/benign (74)_mask.png
+images/000410.tiff,val,1,0,benign/benign (75).png,train,benign,no malignant finding,masks/000410.tiff,"(685, 578)",benign/benign (75)_mask.png
+images/000411.tiff,train,1,0,benign/benign (76).png,train,benign,no malignant finding,masks/000411.tiff,"(848, 685)",benign/benign (76)_mask.png
+images/000412.tiff,train,1,0,benign/benign (77).png,train,benign,no malignant finding,masks/000412.tiff,"(551, 488)",benign/benign (77)_mask.png
+images/000413.tiff,test,1,0,benign/benign (78).png,train,benign,no malignant finding,masks/000413.tiff,"(777, 576)",benign/benign (78)_mask.png
+images/000414.tiff,val,1,0,benign/benign (79).png,train,benign,no malignant finding,masks/000414.tiff,"(648, 604)",benign/benign (79)_mask.png
+images/000415.tiff,val,1,0,benign/benign (8).png,train,benign,no malignant finding,masks/000415.tiff,"(617, 585)",benign/benign (8)_mask.png
+images/000416.tiff,train,1,0,benign/benign (80).png,train,benign,no malignant finding,masks/000416.tiff,"(561, 473)",benign/benign (80)_mask.png
+images/000417.tiff,train,1,0,benign/benign (81).png,train,benign,no malignant finding,masks/000417.tiff,"(563, 464)",benign/benign (81)_mask.png
+images/000418.tiff,test,1,0,benign/benign (82).png,train,benign,no malignant finding,masks/000418.tiff,"(656, 458)",benign/benign (82)_mask.png
+images/000419.tiff,train,1,0,benign/benign (83).png,train,benign,no malignant finding,masks/000419.tiff,"(581, 432)",benign/benign (83)_mask.png
+images/000420.tiff,train,1,0,benign/benign (84).png,train,benign,no malignant finding,masks/000420.tiff,"(839, 510)",benign/benign (84)_mask.png
+images/000421.tiff,train,1,0,benign/benign (85).png,train,benign,no malignant finding,masks/000421.tiff,"(561, 465)",benign/benign (85)_mask.png
+images/000422.tiff,train,1,0,benign/benign (86).png,train,benign,no malignant finding,masks/000422.tiff,"(777, 578)",benign/benign (86)_mask.png
+images/000423.tiff,train,1,0,benign/benign (87).png,train,benign,no malignant finding,masks/000423.tiff,"(768, 571)",benign/benign (87)_mask.png
+images/000424.tiff,train,1,0,benign/benign (88).png,train,benign,no malignant finding,masks/000424.tiff,"(873, 560)",benign/benign (88)_mask.png
+images/000425.tiff,train,1,0,benign/benign (89).png,train,benign,no malignant finding,masks/000425.tiff,"(893, 576)",benign/benign (89)_mask.png
+images/000426.tiff,train,1,0,benign/benign (9).png,train,benign,no malignant finding,masks/000426.tiff,"(752, 585)",benign/benign (9)_mask.png
+images/000427.tiff,test,1,0,benign/benign (90).png,train,benign,no malignant finding,masks/000427.tiff,"(772, 574)",benign/benign (90)_mask.png
+images/000428.tiff,train,1,0,benign/benign (91).png,train,benign,no malignant finding,masks/000428.tiff,"(806, 704)",benign/benign (91)_mask.png
+images/000429.tiff,train,1,0,benign/benign (92).png,train,benign,no malignant finding,masks/000429.tiff,"(763, 612)",benign/benign (92)_mask.png
+images/000430.tiff,train,1,0,benign/benign (93).png,train,benign,no malignant finding,masks/000430.tiff,"(561, 466)",benign/benign (93)_mask.png
+images/000431.tiff,train,1,0,benign/benign (94).png,train,benign,no malignant finding,masks/000431.tiff,"(767, 583)",benign/benign (94)_mask.png
+images/000432.tiff,train,1,0,benign/benign (95).png,train,benign,no malignant finding,masks/000432.tiff,"(558, 470)",benign/benign (95)_mask.png
+images/000433.tiff,train,1,0,benign/benign (96).png,train,benign,no malignant finding,masks/000433.tiff,"(767, 574)",benign/benign (96)_mask.png
+images/000434.tiff,train,1,0,benign/benign (97).png,train,benign,no malignant finding,masks/000434.tiff,"(592, 470)",benign/benign (97)_mask.png
+images/000435.tiff,test,1,0,benign/benign (98).png,train,benign,no malignant finding,masks/000435.tiff,"(795, 558)",benign/benign (98)_mask.png
+images/000436.tiff,train,1,0,benign/benign (99).png,train,benign,no malignant finding,masks/000436.tiff,"(554, 471)",benign/benign (99)_mask.png
+images/000437.tiff,train,2,1,malignant/malignant (1).png,train,malignant,malignant finding,masks/000437.tiff,"(449, 598)",malignant/malignant (1)_mask.png
+images/000438.tiff,val,2,1,malignant/malignant (10).png,train,malignant,malignant finding,masks/000438.tiff,"(462, 393)",malignant/malignant (10)_mask.png
+images/000439.tiff,train,2,1,malignant/malignant (100).png,train,malignant,malignant finding,masks/000439.tiff,"(557, 476)",malignant/malignant (100)_mask.png
+images/000440.tiff,train,2,1,malignant/malignant (101).png,train,malignant,malignant finding,masks/000440.tiff,"(883, 559)",malignant/malignant (101)_mask.png
+images/000441.tiff,val,2,1,malignant/malignant (102).png,train,malignant,malignant finding,masks/000441.tiff,"(916, 551)",malignant/malignant (102)_mask.png
+images/000442.tiff,train,2,1,malignant/malignant (103).png,train,malignant,malignant finding,masks/000442.tiff,"(555, 488)",malignant/malignant (103)_mask.png
+images/000443.tiff,train,2,1,malignant/malignant (104).png,train,malignant,malignant finding,masks/000443.tiff,"(554, 494)",malignant/malignant (104)_mask.png
+images/000444.tiff,train,2,1,malignant/malignant (105).png,train,malignant,malignant finding,masks/000444.tiff,"(577, 450)",malignant/malignant (105)_mask.png
+images/000445.tiff,train,2,1,malignant/malignant (106).png,train,malignant,malignant finding,masks/000445.tiff,"(667, 458)",malignant/malignant (106)_mask.png
+images/000446.tiff,train,2,1,malignant/malignant (107).png,train,malignant,malignant finding,masks/000446.tiff,"(576, 454)",malignant/malignant (107)_mask.png
+images/000447.tiff,train,2,1,malignant/malignant (108).png,train,malignant,malignant finding,masks/000447.tiff,"(660, 459)",malignant/malignant (108)_mask.png
+images/000448.tiff,train,2,1,malignant/malignant (109).png,train,malignant,malignant finding,masks/000448.tiff,"(552, 471)",malignant/malignant (109)_mask.png
+images/000449.tiff,train,2,1,malignant/malignant (11).png,train,malignant,malignant finding,masks/000449.tiff,"(471, 393)",malignant/malignant (11)_mask.png
+images/000450.tiff,train,2,1,malignant/malignant (110).png,train,malignant,malignant finding,masks/000450.tiff,"(557, 470)",malignant/malignant (110)_mask.png
+images/000451.tiff,train,2,1,malignant/malignant (111).png,train,malignant,malignant finding,masks/000451.tiff,"(421, 470)",malignant/malignant (111)_mask.png
+images/000452.tiff,val,2,1,malignant/malignant (112).png,train,malignant,malignant finding,masks/000452.tiff,"(549, 471)",malignant/malignant (112)_mask.png
+images/000453.tiff,train,2,1,malignant/malignant (113).png,train,malignant,malignant finding,masks/000453.tiff,"(745, 482)",malignant/malignant (113)_mask.png
+images/000454.tiff,test,2,1,malignant/malignant (114).png,train,malignant,malignant finding,masks/000454.tiff,"(340, 439)",malignant/malignant (114)_mask.png
+images/000455.tiff,test,2,1,malignant/malignant (115).png,train,malignant,malignant finding,masks/000455.tiff,"(581, 438)",malignant/malignant (115)_mask.png
+images/000456.tiff,train,2,1,malignant/malignant (116).png,train,malignant,malignant finding,masks/000456.tiff,"(582, 434)",malignant/malignant (116)_mask.png
+images/000457.tiff,train,2,1,malignant/malignant (117).png,train,malignant,malignant finding,masks/000457.tiff,"(611, 434)",malignant/malignant (117)_mask.png
+images/000458.tiff,test,2,1,malignant/malignant (118).png,train,malignant,malignant finding,masks/000458.tiff,"(562, 473)",malignant/malignant (118)_mask.png
+images/000459.tiff,test,2,1,malignant/malignant (119).png,train,malignant,malignant finding,masks/000459.tiff,"(564, 469)",malignant/malignant (119)_mask.png
+images/000460.tiff,test,2,1,malignant/malignant (12).png,train,malignant,malignant finding,masks/000460.tiff,"(479, 392)",malignant/malignant (12)_mask.png
+images/000461.tiff,test,2,1,malignant/malignant (120).png,train,malignant,malignant finding,masks/000461.tiff,"(564, 470)",malignant/malignant (120)_mask.png
+images/000462.tiff,train,2,1,malignant/malignant (121).png,train,malignant,malignant finding,masks/000462.tiff,"(562, 476)",malignant/malignant (121)_mask.png
+images/000463.tiff,val,2,1,malignant/malignant (122).png,train,malignant,malignant finding,masks/000463.tiff,"(554, 467)",malignant/malignant (122)_mask.png
+images/000464.tiff,train,2,1,malignant/malignant (123).png,train,malignant,malignant finding,masks/000464.tiff,"(321, 483)",malignant/malignant (123)_mask.png
+images/000465.tiff,train,2,1,malignant/malignant (124).png,train,malignant,malignant finding,masks/000465.tiff,"(545, 494)",malignant/malignant (124)_mask.png
+images/000466.tiff,test,2,1,malignant/malignant (125).png,train,malignant,malignant finding,masks/000466.tiff,"(557, 465)",malignant/malignant (125)_mask.png
+images/000467.tiff,train,2,1,malignant/malignant (126).png,train,malignant,malignant finding,masks/000467.tiff,"(557, 478)",malignant/malignant (126)_mask.png
+images/000468.tiff,train,2,1,malignant/malignant (127).png,train,malignant,malignant finding,masks/000468.tiff,"(591, 464)",malignant/malignant (127)_mask.png
+images/000469.tiff,train,2,1,malignant/malignant (128).png,train,malignant,malignant finding,masks/000469.tiff,"(625, 468)",malignant/malignant (128)_mask.png
+images/000470.tiff,train,2,1,malignant/malignant (129).png,train,malignant,malignant finding,masks/000470.tiff,"(569, 458)",malignant/malignant (129)_mask.png
+images/000471.tiff,test,2,1,malignant/malignant (13).png,train,malignant,malignant finding,masks/000471.tiff,"(468, 393)",malignant/malignant (13)_mask.png
+images/000472.tiff,val,2,1,malignant/malignant (130).png,train,malignant,malignant finding,masks/000472.tiff,"(555, 463)",malignant/malignant (130)_mask.png
+images/000473.tiff,train,2,1,malignant/malignant (131).png,train,malignant,malignant finding,masks/000473.tiff,"(604, 461)",malignant/malignant (131)_mask.png
+images/000474.tiff,test,2,1,malignant/malignant (132).png,train,malignant,malignant finding,masks/000474.tiff,"(451, 581)",malignant/malignant (132)_mask.png
+images/000475.tiff,test,2,1,malignant/malignant (133).png,train,malignant,malignant finding,masks/000475.tiff,"(479, 485)",malignant/malignant (133)_mask.png
+images/000476.tiff,test,2,1,malignant/malignant (134).png,train,malignant,malignant finding,masks/000476.tiff,"(556, 467)",malignant/malignant (134)_mask.png
+images/000477.tiff,train,2,1,malignant/malignant (135).png,train,malignant,malignant finding,masks/000477.tiff,"(933, 571)",malignant/malignant (135)_mask.png
+images/000478.tiff,train,2,1,malignant/malignant (136).png,train,malignant,malignant finding,masks/000478.tiff,"(190, 335)",malignant/malignant (136)_mask.png
+images/000479.tiff,train,2,1,malignant/malignant (137).png,train,malignant,malignant finding,masks/000479.tiff,"(233, 339)",malignant/malignant (137)_mask.png
+images/000480.tiff,train,2,1,malignant/malignant (138).png,train,malignant,malignant finding,masks/000480.tiff,"(556, 467)",malignant/malignant (138)_mask.png
+images/000481.tiff,train,2,1,malignant/malignant (139).png,train,malignant,malignant finding,masks/000481.tiff,"(549, 474)",malignant/malignant (139)_mask.png
+images/000482.tiff,train,2,1,malignant/malignant (14).png,train,malignant,malignant finding,masks/000482.tiff,"(273, 398)",malignant/malignant (14)_mask.png
+images/000483.tiff,train,2,1,malignant/malignant (140).png,train,malignant,malignant finding,masks/000483.tiff,"(546, 463)",malignant/malignant (140)_mask.png
+images/000484.tiff,test,2,1,malignant/malignant (141).png,train,malignant,malignant finding,masks/000484.tiff,"(588, 434)",malignant/malignant (141)_mask.png
+images/000485.tiff,train,2,1,malignant/malignant (142).png,train,malignant,malignant finding,masks/000485.tiff,"(556, 465)",malignant/malignant (142)_mask.png
+images/000486.tiff,train,2,1,malignant/malignant (143).png,train,malignant,malignant finding,masks/000486.tiff,"(562, 467)",malignant/malignant (143)_mask.png
+images/000487.tiff,train,2,1,malignant/malignant (144).png,train,malignant,malignant finding,masks/000487.tiff,"(544, 470)",malignant/malignant (144)_mask.png
+images/000488.tiff,val,2,1,malignant/malignant (145).png,train,malignant,malignant finding,masks/000488.tiff,"(550, 462)",malignant/malignant (145)_mask.png
+images/000489.tiff,test,2,1,malignant/malignant (146).png,train,malignant,malignant finding,masks/000489.tiff,"(575, 432)",malignant/malignant (146)_mask.png
+images/000490.tiff,train,2,1,malignant/malignant (147).png,train,malignant,malignant finding,masks/000490.tiff,"(552, 471)",malignant/malignant (147)_mask.png
+images/000491.tiff,test,2,1,malignant/malignant (148).png,train,malignant,malignant finding,masks/000491.tiff,"(556, 463)",malignant/malignant (148)_mask.png
+images/000492.tiff,test,2,1,malignant/malignant (149).png,train,malignant,malignant finding,masks/000492.tiff,"(763, 572)",malignant/malignant (149)_mask.png
+images/000493.tiff,train,2,1,malignant/malignant (15).png,train,malignant,malignant finding,masks/000493.tiff,"(361, 398)",malignant/malignant (15)_mask.png
+images/000494.tiff,train,2,1,malignant/malignant (150).png,train,malignant,malignant finding,masks/000494.tiff,"(557, 463)",malignant/malignant (150)_mask.png
+images/000495.tiff,train,2,1,malignant/malignant (151).png,train,malignant,malignant finding,masks/000495.tiff,"(513, 467)",malignant/malignant (151)_mask.png
+images/000496.tiff,val,2,1,malignant/malignant (152).png,train,malignant,malignant finding,masks/000496.tiff,"(776, 574)",malignant/malignant (152)_mask.png
+images/000497.tiff,train,2,1,malignant/malignant (153).png,train,malignant,malignant finding,masks/000497.tiff,"(650, 603)",malignant/malignant (153)_mask.png
+images/000498.tiff,test,2,1,malignant/malignant (154).png,train,malignant,malignant finding,masks/000498.tiff,"(556, 464)",malignant/malignant (154)_mask.png
+images/000499.tiff,train,2,1,malignant/malignant (155).png,train,malignant,malignant finding,masks/000499.tiff,"(551, 487)",malignant/malignant (155)_mask.png
+images/000500.tiff,train,2,1,malignant/malignant (156).png,train,malignant,malignant finding,masks/000500.tiff,"(562, 457)",malignant/malignant (156)_mask.png
+images/000501.tiff,train,2,1,malignant/malignant (157).png,train,malignant,malignant finding,masks/000501.tiff,"(564, 471)",malignant/malignant (157)_mask.png
+images/000502.tiff,test,2,1,malignant/malignant (158).png,train,malignant,malignant finding,masks/000502.tiff,"(313, 444)",malignant/malignant (158)_mask.png
+images/000503.tiff,train,2,1,malignant/malignant (159).png,train,malignant,malignant finding,masks/000503.tiff,"(556, 482)",malignant/malignant (159)_mask.png
+images/000504.tiff,test,2,1,malignant/malignant (16).png,train,malignant,malignant finding,masks/000504.tiff,"(511, 472)",malignant/malignant (16)_mask.png
+images/000505.tiff,val,2,1,malignant/malignant (160).png,train,malignant,malignant finding,masks/000505.tiff,"(626, 587)",malignant/malignant (160)_mask.png
+images/000506.tiff,train,2,1,malignant/malignant (161).png,train,malignant,malignant finding,masks/000506.tiff,"(694, 576)",malignant/malignant (161)_mask.png
+images/000507.tiff,train,2,1,malignant/malignant (162).png,train,malignant,malignant finding,masks/000507.tiff,"(620, 587)",malignant/malignant (162)_mask.png
+images/000508.tiff,test,2,1,malignant/malignant (163).png,train,malignant,malignant finding,masks/000508.tiff,"(643, 570)",malignant/malignant (163)_mask.png
+images/000509.tiff,val,2,1,malignant/malignant (164).png,train,malignant,malignant finding,masks/000509.tiff,"(551, 473)",malignant/malignant (164)_mask.png
+images/000510.tiff,test,2,1,malignant/malignant (165).png,train,malignant,malignant finding,masks/000510.tiff,"(505, 332)",malignant/malignant (165)_mask.png
+images/000511.tiff,train,2,1,malignant/malignant (166).png,train,malignant,malignant finding,masks/000511.tiff,"(555, 488)",malignant/malignant (166)_mask.png
+images/000512.tiff,train,2,1,malignant/malignant (167).png,train,malignant,malignant finding,masks/000512.tiff,"(563, 459)",malignant/malignant (167)_mask.png
+images/000513.tiff,train,2,1,malignant/malignant (168).png,train,malignant,malignant finding,masks/000513.tiff,"(557, 469)",malignant/malignant (168)_mask.png
+images/000514.tiff,train,2,1,malignant/malignant (169).png,train,malignant,malignant finding,masks/000514.tiff,"(557, 463)",malignant/malignant (169)_mask.png
+images/000515.tiff,train,2,1,malignant/malignant (17).png,train,malignant,malignant finding,masks/000515.tiff,"(765, 590)",malignant/malignant (17)_mask.png
+images/000516.tiff,train,2,1,malignant/malignant (170).png,train,malignant,malignant finding,masks/000516.tiff,"(556, 463)",malignant/malignant (170)_mask.png
+images/000517.tiff,train,2,1,malignant/malignant (171).png,train,malignant,malignant finding,masks/000517.tiff,"(624, 589)",malignant/malignant (171)_mask.png
+images/000518.tiff,train,2,1,malignant/malignant (172).png,train,malignant,malignant finding,masks/000518.tiff,"(602, 469)",malignant/malignant (172)_mask.png
+images/000519.tiff,train,2,1,malignant/malignant (173).png,train,malignant,malignant finding,masks/000519.tiff,"(573, 451)",malignant/malignant (173)_mask.png
+images/000520.tiff,test,2,1,malignant/malignant (174).png,train,malignant,malignant finding,masks/000520.tiff,"(633, 581)",malignant/malignant (174)_mask.png
+images/000521.tiff,train,2,1,malignant/malignant (175).png,train,malignant,malignant finding,masks/000521.tiff,"(564, 470)",malignant/malignant (175)_mask.png
+images/000522.tiff,train,2,1,malignant/malignant (176).png,train,malignant,malignant finding,masks/000522.tiff,"(640, 594)",malignant/malignant (176)_mask.png
+images/000523.tiff,train,2,1,malignant/malignant (177).png,train,malignant,malignant finding,masks/000523.tiff,"(613, 581)",malignant/malignant (177)_mask.png
+images/000524.tiff,test,2,1,malignant/malignant (178).png,train,malignant,malignant finding,masks/000524.tiff,"(562, 467)",malignant/malignant (178)_mask.png
+images/000525.tiff,train,2,1,malignant/malignant (179).png,train,malignant,malignant finding,masks/000525.tiff,"(432, 476)",malignant/malignant (179)_mask.png
+images/000526.tiff,train,2,1,malignant/malignant (18).png,train,malignant,malignant finding,masks/000526.tiff,"(579, 437)",malignant/malignant (18)_mask.png
+images/000527.tiff,train,2,1,malignant/malignant (180).png,train,malignant,malignant finding,masks/000527.tiff,"(562, 461)",malignant/malignant (180)_mask.png
+images/000528.tiff,train,2,1,malignant/malignant (181).png,train,malignant,malignant finding,masks/000528.tiff,"(497, 488)",malignant/malignant (181)_mask.png
+images/000529.tiff,train,2,1,malignant/malignant (182).png,train,malignant,malignant finding,masks/000529.tiff,"(689, 583)",malignant/malignant (182)_mask.png
+images/000530.tiff,train,2,1,malignant/malignant (183).png,train,malignant,malignant finding,masks/000530.tiff,"(557, 457)",malignant/malignant (183)_mask.png
+images/000531.tiff,train,2,1,malignant/malignant (184).png,train,malignant,malignant finding,masks/000531.tiff,"(552, 492)",malignant/malignant (184)_mask.png
+images/000532.tiff,train,2,1,malignant/malignant (185).png,train,malignant,malignant finding,masks/000532.tiff,"(694, 582)",malignant/malignant (185)_mask.png
+images/000533.tiff,train,2,1,malignant/malignant (186).png,train,malignant,malignant finding,masks/000533.tiff,"(566, 506)",malignant/malignant (186)_mask.png
+images/000534.tiff,train,2,1,malignant/malignant (187).png,train,malignant,malignant finding,masks/000534.tiff,"(765, 585)",malignant/malignant (187)_mask.png
+images/000535.tiff,train,2,1,malignant/malignant (188).png,train,malignant,malignant finding,masks/000535.tiff,"(724, 473)",malignant/malignant (188)_mask.png
+images/000536.tiff,train,2,1,malignant/malignant (189).png,train,malignant,malignant finding,masks/000536.tiff,"(433, 400)",malignant/malignant (189)_mask.png
+images/000537.tiff,train,2,1,malignant/malignant (19).png,train,malignant,malignant finding,masks/000537.tiff,"(554, 459)",malignant/malignant (19)_mask.png
+images/000538.tiff,train,2,1,malignant/malignant (190).png,train,malignant,malignant finding,masks/000538.tiff,"(576, 427)",malignant/malignant (190)_mask.png
+images/000539.tiff,train,2,1,malignant/malignant (191).png,train,malignant,malignant finding,masks/000539.tiff,"(673, 471)",malignant/malignant (191)_mask.png
+images/000540.tiff,test,2,1,malignant/malignant (192).png,train,malignant,malignant finding,masks/000540.tiff,"(556, 488)",malignant/malignant (192)_mask.png
+images/000541.tiff,train,2,1,malignant/malignant (193).png,train,malignant,malignant finding,masks/000541.tiff,"(781, 574)",malignant/malignant (193)_mask.png
+images/000542.tiff,train,2,1,malignant/malignant (194).png,train,malignant,malignant finding,masks/000542.tiff,"(923, 555)",malignant/malignant (194)_mask.png
+images/000543.tiff,train,2,1,malignant/malignant (195).png,train,malignant,malignant finding,masks/000543.tiff,"(555, 475)",malignant/malignant (195)_mask.png
+images/000544.tiff,train,2,1,malignant/malignant (196).png,train,malignant,malignant finding,masks/000544.tiff,"(557, 465)",malignant/malignant (196)_mask.png
+images/000545.tiff,train,2,1,malignant/malignant (197).png,train,malignant,malignant finding,masks/000545.tiff,"(552, 484)",malignant/malignant (197)_mask.png
+images/000546.tiff,test,2,1,malignant/malignant (198).png,train,malignant,malignant finding,masks/000546.tiff,"(616, 677)",malignant/malignant (198)_mask.png
+images/000547.tiff,train,2,1,malignant/malignant (199).png,train,malignant,malignant finding,masks/000547.tiff,"(504, 473)",malignant/malignant (199)_mask.png
+images/000548.tiff,train,2,1,malignant/malignant (2).png,train,malignant,malignant finding,masks/000548.tiff,"(548, 495)",malignant/malignant (2)_mask.png
+images/000549.tiff,train,2,1,malignant/malignant (20).png,train,malignant,malignant finding,masks/000549.tiff,"(558, 475)",malignant/malignant (20)_mask.png
+images/000550.tiff,val,2,1,malignant/malignant (200).png,train,malignant,malignant finding,masks/000550.tiff,"(438, 463)",malignant/malignant (200)_mask.png
+images/000551.tiff,train,2,1,malignant/malignant (201).png,train,malignant,malignant finding,masks/000551.tiff,"(678, 576)",malignant/malignant (201)_mask.png
+images/000552.tiff,train,2,1,malignant/malignant (202).png,train,malignant,malignant finding,masks/000552.tiff,"(550, 491)",malignant/malignant (202)_mask.png
+images/000553.tiff,test,2,1,malignant/malignant (203).png,train,malignant,malignant finding,masks/000553.tiff,"(577, 411)",malignant/malignant (203)_mask.png
+images/000554.tiff,train,2,1,malignant/malignant (204).png,train,malignant,malignant finding,masks/000554.tiff,"(875, 585)",malignant/malignant (204)_mask.png
+images/000555.tiff,test,2,1,malignant/malignant (205).png,train,malignant,malignant finding,masks/000555.tiff,"(510, 470)",malignant/malignant (205)_mask.png
+images/000556.tiff,test,2,1,malignant/malignant (206).png,train,malignant,malignant finding,masks/000556.tiff,"(792, 571)",malignant/malignant (206)_mask.png
+images/000557.tiff,train,2,1,malignant/malignant (207).png,train,malignant,malignant finding,masks/000557.tiff,"(557, 458)",malignant/malignant (207)_mask.png
+images/000558.tiff,train,2,1,malignant/malignant (208).png,train,malignant,malignant finding,masks/000558.tiff,"(617, 664)",malignant/malignant (208)_mask.png
+images/000559.tiff,train,2,1,malignant/malignant (209).png,train,malignant,malignant finding,masks/000559.tiff,"(508, 471)",malignant/malignant (209)_mask.png
+images/000560.tiff,test,2,1,malignant/malignant (21).png,train,malignant,malignant finding,masks/000560.tiff,"(601, 367)",malignant/malignant (21)_mask.png
+images/000561.tiff,test,2,1,malignant/malignant (210).png,train,malignant,malignant finding,masks/000561.tiff,"(775, 587)",malignant/malignant (210)_mask.png
+images/000562.tiff,test,2,1,malignant/malignant (22).png,train,malignant,malignant finding,masks/000562.tiff,"(570, 474)",malignant/malignant (22)_mask.png
+images/000563.tiff,test,2,1,malignant/malignant (23).png,train,malignant,malignant finding,masks/000563.tiff,"(569, 468)",malignant/malignant (23)_mask.png
+images/000564.tiff,test,2,1,malignant/malignant (24).png,train,malignant,malignant finding,masks/000564.tiff,"(564, 462)",malignant/malignant (24)_mask.png
+images/000565.tiff,test,2,1,malignant/malignant (25).png,train,malignant,malignant finding,masks/000565.tiff,"(563, 470)",malignant/malignant (25)_mask.png
+images/000566.tiff,test,2,1,malignant/malignant (26).png,train,malignant,malignant finding,masks/000566.tiff,"(564, 469)",malignant/malignant (26)_mask.png
+images/000567.tiff,train,2,1,malignant/malignant (27).png,train,malignant,malignant finding,masks/000567.tiff,"(567, 475)",malignant/malignant (27)_mask.png
+images/000568.tiff,train,2,1,malignant/malignant (28).png,train,malignant,malignant finding,masks/000568.tiff,"(562, 470)",malignant/malignant (28)_mask.png
+images/000569.tiff,train,2,1,malignant/malignant (29).png,train,malignant,malignant finding,masks/000569.tiff,"(567, 470)",malignant/malignant (29)_mask.png
+images/000570.tiff,train,2,1,malignant/malignant (3).png,train,malignant,malignant finding,masks/000570.tiff,"(425, 475)",malignant/malignant (3)_mask.png
+images/000571.tiff,train,2,1,malignant/malignant (30).png,train,malignant,malignant finding,masks/000571.tiff,"(573, 468)",malignant/malignant (30)_mask.png
+images/000572.tiff,train,2,1,malignant/malignant (31).png,train,malignant,malignant finding,masks/000572.tiff,"(723, 509)",malignant/malignant (31)_mask.png
+images/000573.tiff,test,2,1,malignant/malignant (32).png,train,malignant,malignant finding,masks/000573.tiff,"(557, 492)",malignant/malignant (32)_mask.png
+images/000574.tiff,test,2,1,malignant/malignant (33).png,train,malignant,malignant finding,masks/000574.tiff,"(557, 496)",malignant/malignant (33)_mask.png
+images/000575.tiff,val,2,1,malignant/malignant (34).png,train,malignant,malignant finding,masks/000575.tiff,"(620, 589)",malignant/malignant (34)_mask.png
+images/000576.tiff,train,2,1,malignant/malignant (35).png,train,malignant,malignant finding,masks/000576.tiff,"(592, 387)",malignant/malignant (35)_mask.png
+images/000577.tiff,test,2,1,malignant/malignant (36).png,train,malignant,malignant finding,masks/000577.tiff,"(623, 494)",malignant/malignant (36)_mask.png
+images/000578.tiff,train,2,1,malignant/malignant (37).png,train,malignant,malignant finding,masks/000578.tiff,"(626, 490)",malignant/malignant (37)_mask.png
+images/000579.tiff,train,2,1,malignant/malignant (38).png,train,malignant,malignant finding,masks/000579.tiff,"(1048, 578)",malignant/malignant (38)_mask.png
+images/000580.tiff,train,2,1,malignant/malignant (39).png,train,malignant,malignant finding,masks/000580.tiff,"(564, 469)",malignant/malignant (39)_mask.png
+images/000581.tiff,train,2,1,malignant/malignant (4).png,train,malignant,malignant finding,masks/000581.tiff,"(432, 473)",malignant/malignant (4)_mask.png
+images/000582.tiff,train,2,1,malignant/malignant (40).png,train,malignant,malignant finding,masks/000582.tiff,"(548, 461)",malignant/malignant (40)_mask.png
+images/000583.tiff,train,2,1,malignant/malignant (41).png,train,malignant,malignant finding,masks/000583.tiff,"(580, 476)",malignant/malignant (41)_mask.png
+images/000584.tiff,train,2,1,malignant/malignant (42).png,train,malignant,malignant finding,masks/000584.tiff,"(578, 439)",malignant/malignant (42)_mask.png
+images/000585.tiff,train,2,1,malignant/malignant (43).png,train,malignant,malignant finding,masks/000585.tiff,"(543, 571)",malignant/malignant (43)_mask.png
+images/000586.tiff,train,2,1,malignant/malignant (44).png,train,malignant,malignant finding,masks/000586.tiff,"(765, 580)",malignant/malignant (44)_mask.png
+images/000587.tiff,train,2,1,malignant/malignant (45).png,train,malignant,malignant finding,masks/000587.tiff,"(781, 592)",malignant/malignant (45)_mask.png
+images/000588.tiff,val,2,1,malignant/malignant (46).png,train,malignant,malignant finding,masks/000588.tiff,"(785, 571)",malignant/malignant (46)_mask.png
+images/000589.tiff,train,2,1,malignant/malignant (47).png,train,malignant,malignant finding,masks/000589.tiff,"(562, 471)",malignant/malignant (47)_mask.png
+images/000590.tiff,train,2,1,malignant/malignant (48).png,train,malignant,malignant finding,masks/000590.tiff,"(552, 493)",malignant/malignant (48)_mask.png
+images/000591.tiff,train,2,1,malignant/malignant (49).png,train,malignant,malignant finding,masks/000591.tiff,"(622, 491)",malignant/malignant (49)_mask.png
+images/000592.tiff,test,2,1,malignant/malignant (5).png,train,malignant,malignant finding,masks/000592.tiff,"(431, 476)",malignant/malignant (5)_mask.png
+images/000593.tiff,val,2,1,malignant/malignant (50).png,train,malignant,malignant finding,masks/000593.tiff,"(567, 469)",malignant/malignant (50)_mask.png
+images/000594.tiff,train,2,1,malignant/malignant (51).png,train,malignant,malignant finding,masks/000594.tiff,"(588, 437)",malignant/malignant (51)_mask.png
+images/000595.tiff,train,2,1,malignant/malignant (52).png,train,malignant,malignant finding,masks/000595.tiff,"(552, 462)",malignant/malignant (52)_mask.png
+images/000596.tiff,val,2,1,malignant/malignant (53).png,train,malignant,malignant finding,masks/000596.tiff,"(569, 471)",malignant/malignant (53)_mask.png
+images/000597.tiff,train,2,1,malignant/malignant (54).png,train,malignant,malignant finding,masks/000597.tiff,"(777, 580)",malignant/malignant (54)_mask.png
+images/000598.tiff,train,2,1,malignant/malignant (55).png,train,malignant,malignant finding,masks/000598.tiff,"(786, 556)",malignant/malignant (55)_mask.png
+images/000599.tiff,train,2,1,malignant/malignant (56).png,train,malignant,malignant finding,masks/000599.tiff,"(690, 538)",malignant/malignant (56)_mask.png
+images/000600.tiff,test,2,1,malignant/malignant (57).png,train,malignant,malignant finding,masks/000600.tiff,"(717, 533)",malignant/malignant (57)_mask.png
+images/000601.tiff,train,2,1,malignant/malignant (58).png,train,malignant,malignant finding,masks/000601.tiff,"(688, 558)",malignant/malignant (58)_mask.png
+images/000602.tiff,train,2,1,malignant/malignant (59).png,train,malignant,malignant finding,masks/000602.tiff,"(682, 561)",malignant/malignant (59)_mask.png
+images/000603.tiff,train,2,1,malignant/malignant (6).png,train,malignant,malignant finding,masks/000603.tiff,"(432, 478)",malignant/malignant (6)_mask.png
+images/000604.tiff,val,2,1,malignant/malignant (60).png,train,malignant,malignant finding,masks/000604.tiff,"(681, 559)",malignant/malignant (60)_mask.png
+images/000605.tiff,train,2,1,malignant/malignant (61).png,train,malignant,malignant finding,masks/000605.tiff,"(566, 462)",malignant/malignant (61)_mask.png
+images/000606.tiff,train,2,1,malignant/malignant (62).png,train,malignant,malignant finding,masks/000606.tiff,"(693, 565)",malignant/malignant (62)_mask.png
+images/000607.tiff,train,2,1,malignant/malignant (63).png,train,malignant,malignant finding,masks/000607.tiff,"(795, 572)",malignant/malignant (63)_mask.png
+images/000608.tiff,train,2,1,malignant/malignant (64).png,train,malignant,malignant finding,masks/000608.tiff,"(772, 479)",malignant/malignant (64)_mask.png
+images/000609.tiff,val,2,1,malignant/malignant (65).png,train,malignant,malignant finding,masks/000609.tiff,"(922, 584)",malignant/malignant (65)_mask.png
+images/000610.tiff,train,2,1,malignant/malignant (66).png,train,malignant,malignant finding,masks/000610.tiff,"(655, 584)",malignant/malignant (66)_mask.png
+images/000611.tiff,train,2,1,malignant/malignant (67).png,train,malignant,malignant finding,masks/000611.tiff,"(946, 604)",malignant/malignant (67)_mask.png
+images/000612.tiff,test,2,1,malignant/malignant (68).png,train,malignant,malignant finding,masks/000612.tiff,"(574, 464)",malignant/malignant (68)_mask.png
+images/000613.tiff,train,2,1,malignant/malignant (69).png,train,malignant,malignant finding,masks/000613.tiff,"(646, 461)",malignant/malignant (69)_mask.png
+images/000614.tiff,test,2,1,malignant/malignant (7).png,train,malignant,malignant finding,masks/000614.tiff,"(432, 474)",malignant/malignant (7)_mask.png
+images/000615.tiff,train,2,1,malignant/malignant (70).png,train,malignant,malignant finding,masks/000615.tiff,"(668, 463)",malignant/malignant (70)_mask.png
+images/000616.tiff,train,2,1,malignant/malignant (71).png,train,malignant,malignant finding,masks/000616.tiff,"(528, 592)",malignant/malignant (71)_mask.png
+images/000617.tiff,val,2,1,malignant/malignant (72).png,train,malignant,malignant finding,masks/000617.tiff,"(528, 598)",malignant/malignant (72)_mask.png
+images/000618.tiff,val,2,1,malignant/malignant (73).png,train,malignant,malignant finding,masks/000618.tiff,"(549, 474)",malignant/malignant (73)_mask.png
+images/000619.tiff,test,2,1,malignant/malignant (74).png,train,malignant,malignant finding,masks/000619.tiff,"(558, 464)",malignant/malignant (74)_mask.png
+images/000620.tiff,train,2,1,malignant/malignant (75).png,train,malignant,malignant finding,masks/000620.tiff,"(441, 412)",malignant/malignant (75)_mask.png
+images/000621.tiff,val,2,1,malignant/malignant (76).png,train,malignant,malignant finding,masks/000621.tiff,"(769, 494)",malignant/malignant (76)_mask.png
+images/000622.tiff,train,2,1,malignant/malignant (77).png,train,malignant,malignant finding,masks/000622.tiff,"(801, 587)",malignant/malignant (77)_mask.png
+images/000623.tiff,train,2,1,malignant/malignant (78).png,train,malignant,malignant finding,masks/000623.tiff,"(880, 567)",malignant/malignant (78)_mask.png
+images/000624.tiff,train,2,1,malignant/malignant (79).png,train,malignant,malignant finding,masks/000624.tiff,"(564, 468)",malignant/malignant (79)_mask.png
+images/000625.tiff,train,2,1,malignant/malignant (8).png,train,malignant,malignant finding,masks/000625.tiff,"(426, 473)",malignant/malignant (8)_mask.png
+images/000626.tiff,train,2,1,malignant/malignant (80).png,train,malignant,malignant finding,masks/000626.tiff,"(643, 443)",malignant/malignant (80)_mask.png
+images/000627.tiff,train,2,1,malignant/malignant (81).png,train,malignant,malignant finding,masks/000627.tiff,"(764, 452)",malignant/malignant (81)_mask.png
+images/000628.tiff,train,2,1,malignant/malignant (82).png,train,malignant,malignant finding,masks/000628.tiff,"(569, 459)",malignant/malignant (82)_mask.png
+images/000629.tiff,train,2,1,malignant/malignant (83).png,train,malignant,malignant finding,masks/000629.tiff,"(654, 616)",malignant/malignant (83)_mask.png
+images/000630.tiff,train,2,1,malignant/malignant (84).png,train,malignant,malignant finding,masks/000630.tiff,"(649, 612)",malignant/malignant (84)_mask.png
+images/000631.tiff,train,2,1,malignant/malignant (85).png,train,malignant,malignant finding,masks/000631.tiff,"(733, 485)",malignant/malignant (85)_mask.png
+images/000632.tiff,train,2,1,malignant/malignant (86).png,train,malignant,malignant finding,masks/000632.tiff,"(735, 483)",malignant/malignant (86)_mask.png
+images/000633.tiff,train,2,1,malignant/malignant (87).png,train,malignant,malignant finding,masks/000633.tiff,"(561, 499)",malignant/malignant (87)_mask.png
+images/000634.tiff,val,2,1,malignant/malignant (88).png,train,malignant,malignant finding,masks/000634.tiff,"(775, 591)",malignant/malignant (88)_mask.png
+images/000635.tiff,train,2,1,malignant/malignant (89).png,train,malignant,malignant finding,masks/000635.tiff,"(786, 585)",malignant/malignant (89)_mask.png
+images/000636.tiff,train,2,1,malignant/malignant (9).png,train,malignant,malignant finding,masks/000636.tiff,"(430, 480)",malignant/malignant (9)_mask.png
+images/000637.tiff,train,2,1,malignant/malignant (90).png,train,malignant,malignant finding,masks/000637.tiff,"(783, 587)",malignant/malignant (90)_mask.png
+images/000638.tiff,train,2,1,malignant/malignant (91).png,train,malignant,malignant finding,masks/000638.tiff,"(550, 494)",malignant/malignant (91)_mask.png
+images/000639.tiff,val,2,1,malignant/malignant (92).png,train,malignant,malignant finding,masks/000639.tiff,"(617, 581)",malignant/malignant (92)_mask.png
+images/000640.tiff,train,2,1,malignant/malignant (93).png,train,malignant,malignant finding,masks/000640.tiff,"(554, 470)",malignant/malignant (93)_mask.png
+images/000641.tiff,train,2,1,malignant/malignant (94).png,train,malignant,malignant finding,masks/000641.tiff,"(564, 452)",malignant/malignant (94)_mask.png
+images/000642.tiff,test,2,1,malignant/malignant (95).png,train,malignant,malignant finding,masks/000642.tiff,"(781, 486)",malignant/malignant (95)_mask.png
+images/000643.tiff,val,2,1,malignant/malignant (96).png,train,malignant,malignant finding,masks/000643.tiff,"(560, 483)",malignant/malignant (96)_mask.png
+images/000644.tiff,train,2,1,malignant/malignant (97).png,train,malignant,malignant finding,masks/000644.tiff,"(583, 486)",malignant/malignant (97)_mask.png
+images/000645.tiff,val,2,1,malignant/malignant (98).png,train,malignant,malignant finding,masks/000645.tiff,"(770, 486)",malignant/malignant (98)_mask.png
+images/000646.tiff,test,2,1,malignant/malignant (99).png,train,malignant,malignant finding,masks/000646.tiff,"(550, 486)",malignant/malignant (99)_mask.png
+images/000647.tiff,test,0,0,normal/normal (1).png,train,normal,no malignant finding,masks/000647.tiff,"(568, 470)",normal/normal (1)_mask.png
+images/000648.tiff,train,0,0,normal/normal (10).png,train,normal,no malignant finding,masks/000648.tiff,"(501, 485)",normal/normal (10)_mask.png
+images/000649.tiff,train,0,0,normal/normal (100).png,train,normal,no malignant finding,masks/000649.tiff,"(690, 574)",normal/normal (100)_mask.png
+images/000650.tiff,train,0,0,normal/normal (101).png,train,normal,no malignant finding,masks/000650.tiff,"(678, 572)",normal/normal (101)_mask.png
+images/000651.tiff,train,0,0,normal/normal (102).png,train,normal,no malignant finding,masks/000651.tiff,"(770, 576)",normal/normal (102)_mask.png
+images/000652.tiff,train,0,0,normal/normal (103).png,train,normal,no malignant finding,masks/000652.tiff,"(772, 574)",normal/normal (103)_mask.png
+images/000653.tiff,train,0,0,normal/normal (104).png,train,normal,no malignant finding,masks/000653.tiff,"(550, 471)",normal/normal (104)_mask.png
+images/000654.tiff,train,0,0,normal/normal (105).png,train,normal,no malignant finding,masks/000654.tiff,"(562, 463)",normal/normal (105)_mask.png
+images/000655.tiff,train,0,0,normal/normal (106).png,train,normal,no malignant finding,masks/000655.tiff,"(558, 468)",normal/normal (106)_mask.png
+images/000656.tiff,train,0,0,normal/normal (107).png,train,normal,no malignant finding,masks/000656.tiff,"(560, 468)",normal/normal (107)_mask.png
+images/000657.tiff,train,0,0,normal/normal (108).png,train,normal,no malignant finding,masks/000657.tiff,"(770, 589)",normal/normal (108)_mask.png
+images/000658.tiff,train,0,0,normal/normal (109).png,train,normal,no malignant finding,masks/000658.tiff,"(557, 475)",normal/normal (109)_mask.png
+images/000659.tiff,train,0,0,normal/normal (11).png,train,normal,no malignant finding,masks/000659.tiff,"(752, 576)",normal/normal (11)_mask.png
+images/000660.tiff,test,0,0,normal/normal (110).png,train,normal,no malignant finding,masks/000660.tiff,"(552, 468)",normal/normal (110)_mask.png
+images/000661.tiff,test,0,0,normal/normal (111).png,train,normal,no malignant finding,masks/000661.tiff,"(913, 663)",normal/normal (111)_mask.png
+images/000662.tiff,test,0,0,normal/normal (112).png,train,normal,no malignant finding,masks/000662.tiff,"(929, 655)",normal/normal (112)_mask.png
+images/000663.tiff,test,0,0,normal/normal (113).png,train,normal,no malignant finding,masks/000663.tiff,"(948, 704)",normal/normal (113)_mask.png
+images/000664.tiff,train,0,0,normal/normal (114).png,train,normal,no malignant finding,masks/000664.tiff,"(916, 700)",normal/normal (114)_mask.png
+images/000665.tiff,val,0,0,normal/normal (115).png,train,normal,no malignant finding,masks/000665.tiff,"(556, 494)",normal/normal (115)_mask.png
+images/000666.tiff,train,0,0,normal/normal (116).png,train,normal,no malignant finding,masks/000666.tiff,"(785, 585)",normal/normal (116)_mask.png
+images/000667.tiff,test,0,0,normal/normal (117).png,train,normal,no malignant finding,masks/000667.tiff,"(770, 574)",normal/normal (117)_mask.png
+images/000668.tiff,train,0,0,normal/normal (118).png,train,normal,no malignant finding,masks/000668.tiff,"(928, 695)",normal/normal (118)_mask.png
+images/000669.tiff,test,0,0,normal/normal (119).png,train,normal,no malignant finding,masks/000669.tiff,"(552, 486)",normal/normal (119)_mask.png
+images/000670.tiff,train,0,0,normal/normal (12).png,train,normal,no malignant finding,masks/000670.tiff,"(779, 583)",normal/normal (12)_mask.png
+images/000671.tiff,train,0,0,normal/normal (120).png,train,normal,no malignant finding,masks/000671.tiff,"(772, 578)",normal/normal (120)_mask.png
+images/000672.tiff,train,0,0,normal/normal (121).png,train,normal,no malignant finding,masks/000672.tiff,"(550, 465)",normal/normal (121)_mask.png
+images/000673.tiff,train,0,0,normal/normal (122).png,train,normal,no malignant finding,masks/000673.tiff,"(766, 578)",normal/normal (122)_mask.png
+images/000674.tiff,test,0,0,normal/normal (123).png,train,normal,no malignant finding,masks/000674.tiff,"(685, 558)",normal/normal (123)_mask.png
+images/000675.tiff,train,0,0,normal/normal (124).png,train,normal,no malignant finding,masks/000675.tiff,"(811, 712)",normal/normal (124)_mask.png
+images/000676.tiff,train,0,0,normal/normal (125).png,train,normal,no malignant finding,masks/000676.tiff,"(558, 471)",normal/normal (125)_mask.png
+images/000677.tiff,train,0,0,normal/normal (126).png,train,normal,no malignant finding,masks/000677.tiff,"(765, 601)",normal/normal (126)_mask.png
+images/000678.tiff,train,0,0,normal/normal (127).png,train,normal,no malignant finding,masks/000678.tiff,"(555, 467)",normal/normal (127)_mask.png
+images/000679.tiff,train,0,0,normal/normal (128).png,train,normal,no malignant finding,masks/000679.tiff,"(622, 596)",normal/normal (128)_mask.png
+images/000680.tiff,val,0,0,normal/normal (129).png,train,normal,no malignant finding,masks/000680.tiff,"(617, 684)",normal/normal (129)_mask.png
+images/000681.tiff,test,0,0,normal/normal (13).png,train,normal,no malignant finding,masks/000681.tiff,"(779, 574)",normal/normal (13)_mask.png
+images/000682.tiff,train,0,0,normal/normal (130).png,train,normal,no malignant finding,masks/000682.tiff,"(739, 477)",normal/normal (130)_mask.png
+images/000683.tiff,train,0,0,normal/normal (131).png,train,normal,no malignant finding,masks/000683.tiff,"(669, 574)",normal/normal (131)_mask.png
+images/000684.tiff,train,0,0,normal/normal (132).png,train,normal,no malignant finding,masks/000684.tiff,"(857, 700)",normal/normal (132)_mask.png
+images/000685.tiff,train,0,0,normal/normal (133).png,train,normal,no malignant finding,masks/000685.tiff,"(560, 471)",normal/normal (133)_mask.png
+images/000686.tiff,test,0,0,normal/normal (14).png,train,normal,no malignant finding,masks/000686.tiff,"(765, 581)",normal/normal (14)_mask.png
+images/000687.tiff,train,0,0,normal/normal (15).png,train,normal,no malignant finding,masks/000687.tiff,"(554, 464)",normal/normal (15)_mask.png
+images/000688.tiff,test,0,0,normal/normal (16).png,train,normal,no malignant finding,masks/000688.tiff,"(566, 464)",normal/normal (16)_mask.png
+images/000689.tiff,train,0,0,normal/normal (17).png,train,normal,no malignant finding,masks/000689.tiff,"(560, 465)",normal/normal (17)_mask.png
+images/000690.tiff,train,0,0,normal/normal (18).png,train,normal,no malignant finding,masks/000690.tiff,"(562, 473)",normal/normal (18)_mask.png
+images/000691.tiff,train,0,0,normal/normal (19).png,train,normal,no malignant finding,masks/000691.tiff,"(660, 566)",normal/normal (19)_mask.png
+images/000692.tiff,train,0,0,normal/normal (2).png,train,normal,no malignant finding,masks/000692.tiff,"(552, 471)",normal/normal (2)_mask.png
+images/000693.tiff,val,0,0,normal/normal (20).png,train,normal,no malignant finding,masks/000693.tiff,"(851, 687)",normal/normal (20)_mask.png
+images/000694.tiff,val,0,0,normal/normal (21).png,train,normal,no malignant finding,masks/000694.tiff,"(545, 463)",normal/normal (21)_mask.png
+images/000695.tiff,train,0,0,normal/normal (22).png,train,normal,no malignant finding,masks/000695.tiff,"(552, 470)",normal/normal (22)_mask.png
+images/000696.tiff,train,0,0,normal/normal (23).png,train,normal,no malignant finding,masks/000696.tiff,"(763, 578)",normal/normal (23)_mask.png
+images/000697.tiff,test,0,0,normal/normal (24).png,train,normal,no malignant finding,masks/000697.tiff,"(626, 573)",normal/normal (24)_mask.png
+images/000698.tiff,val,0,0,normal/normal (25).png,train,normal,no malignant finding,masks/000698.tiff,"(781, 571)",normal/normal (25)_mask.png
+images/000699.tiff,test,0,0,normal/normal (26).png,train,normal,no malignant finding,masks/000699.tiff,"(738, 475)",normal/normal (26)_mask.png
+images/000700.tiff,test,0,0,normal/normal (27).png,train,normal,no malignant finding,masks/000700.tiff,"(804, 707)",normal/normal (27)_mask.png
+images/000701.tiff,train,0,0,normal/normal (28).png,train,normal,no malignant finding,masks/000701.tiff,"(761, 619)",normal/normal (28)_mask.png
+images/000702.tiff,test,0,0,normal/normal (29).png,train,normal,no malignant finding,masks/000702.tiff,"(679, 567)",normal/normal (29)_mask.png
+images/000703.tiff,test,0,0,normal/normal (3).png,train,normal,no malignant finding,masks/000703.tiff,"(554, 465)",normal/normal (3)_mask.png
+images/000704.tiff,train,0,0,normal/normal (30).png,train,normal,no malignant finding,masks/000704.tiff,"(550, 490)",normal/normal (30)_mask.png
+images/000705.tiff,train,0,0,normal/normal (31).png,train,normal,no malignant finding,masks/000705.tiff,"(547, 473)",normal/normal (31)_mask.png
+images/000706.tiff,train,0,0,normal/normal (32).png,train,normal,no malignant finding,masks/000706.tiff,"(557, 470)",normal/normal (32)_mask.png
+images/000707.tiff,train,0,0,normal/normal (33).png,train,normal,no malignant finding,masks/000707.tiff,"(777, 587)",normal/normal (33)_mask.png
+images/000708.tiff,val,0,0,normal/normal (34).png,train,normal,no malignant finding,masks/000708.tiff,"(779, 576)",normal/normal (34)_mask.png
+images/000709.tiff,train,0,0,normal/normal (35).png,train,normal,no malignant finding,masks/000709.tiff,"(616, 688)",normal/normal (35)_mask.png
+images/000710.tiff,val,0,0,normal/normal (36).png,train,normal,no malignant finding,masks/000710.tiff,"(812, 705)",normal/normal (36)_mask.png
+images/000711.tiff,train,0,0,normal/normal (37).png,train,normal,no malignant finding,masks/000711.tiff,"(816, 709)",normal/normal (37)_mask.png
+images/000712.tiff,train,0,0,normal/normal (38).png,train,normal,no malignant finding,masks/000712.tiff,"(763, 619)",normal/normal (38)_mask.png
+images/000713.tiff,val,0,0,normal/normal (39).png,train,normal,no malignant finding,masks/000713.tiff,"(757, 618)",normal/normal (39)_mask.png
+images/000714.tiff,train,0,0,normal/normal (4).png,train,normal,no malignant finding,masks/000714.tiff,"(578, 434)",normal/normal (4)_mask.png
+images/000715.tiff,train,0,0,normal/normal (40).png,train,normal,no malignant finding,masks/000715.tiff,"(763, 598)",normal/normal (40)_mask.png
+images/000716.tiff,train,0,0,normal/normal (41).png,train,normal,no malignant finding,masks/000716.tiff,"(761, 600)",normal/normal (41)_mask.png
+images/000717.tiff,train,0,0,normal/normal (42).png,train,normal,no malignant finding,masks/000717.tiff,"(763, 611)",normal/normal (42)_mask.png
+images/000718.tiff,train,0,0,normal/normal (43).png,train,normal,no malignant finding,masks/000718.tiff,"(759, 592)",normal/normal (43)_mask.png
+images/000719.tiff,train,0,0,normal/normal (44).png,train,normal,no malignant finding,masks/000719.tiff,"(761, 618)",normal/normal (44)_mask.png
+images/000720.tiff,train,0,0,normal/normal (45).png,train,normal,no malignant finding,masks/000720.tiff,"(767, 601)",normal/normal (45)_mask.png
+images/000721.tiff,test,0,0,normal/normal (46).png,train,normal,no malignant finding,masks/000721.tiff,"(393, 310)",normal/normal (46)_mask.png
+images/000722.tiff,train,0,0,normal/normal (47).png,train,normal,no malignant finding,masks/000722.tiff,"(391, 313)",normal/normal (47)_mask.png
+images/000723.tiff,val,0,0,normal/normal (48).png,train,normal,no malignant finding,masks/000723.tiff,"(392, 312)",normal/normal (48)_mask.png
+images/000724.tiff,train,0,0,normal/normal (49).png,train,normal,no malignant finding,masks/000724.tiff,"(396, 316)",normal/normal (49)_mask.png
+images/000725.tiff,train,0,0,normal/normal (5).png,train,normal,no malignant finding,masks/000725.tiff,"(765, 573)",normal/normal (5)_mask.png
+images/000726.tiff,train,0,0,normal/normal (50).png,train,normal,no malignant finding,masks/000726.tiff,"(392, 310)",normal/normal (50)_mask.png
+images/000727.tiff,train,0,0,normal/normal (51).png,train,normal,no malignant finding,masks/000727.tiff,"(554, 490)",normal/normal (51)_mask.png
+images/000728.tiff,test,0,0,normal/normal (52).png,train,normal,no malignant finding,masks/000728.tiff,"(552, 487)",normal/normal (52)_mask.png
+images/000729.tiff,train,0,0,normal/normal (53).png,train,normal,no malignant finding,masks/000729.tiff,"(757, 648)",normal/normal (53)_mask.png
+images/000730.tiff,train,0,0,normal/normal (54).png,train,normal,no malignant finding,masks/000730.tiff,"(554, 492)",normal/normal (54)_mask.png
+images/000731.tiff,train,0,0,normal/normal (55).png,train,normal,no malignant finding,masks/000731.tiff,"(557, 491)",normal/normal (55)_mask.png
+images/000732.tiff,train,0,0,normal/normal (56).png,train,normal,no malignant finding,masks/000732.tiff,"(763, 598)",normal/normal (56)_mask.png
+images/000733.tiff,test,0,0,normal/normal (57).png,train,normal,no malignant finding,masks/000733.tiff,"(548, 490)",normal/normal (57)_mask.png
+images/000734.tiff,train,0,0,normal/normal (58).png,train,normal,no malignant finding,masks/000734.tiff,"(554, 487)",normal/normal (58)_mask.png
+images/000735.tiff,train,0,0,normal/normal (59).png,train,normal,no malignant finding,masks/000735.tiff,"(765, 621)",normal/normal (59)_mask.png
+images/000736.tiff,train,0,0,normal/normal (6).png,train,normal,no malignant finding,masks/000736.tiff,"(776, 574)",normal/normal (6)_mask.png
+images/000737.tiff,val,0,0,normal/normal (60).png,train,normal,no malignant finding,masks/000737.tiff,"(552, 486)",normal/normal (60)_mask.png
+images/000738.tiff,train,0,0,normal/normal (61).png,train,normal,no malignant finding,masks/000738.tiff,"(752, 601)",normal/normal (61)_mask.png
+images/000739.tiff,test,0,0,normal/normal (62).png,train,normal,no malignant finding,masks/000739.tiff,"(763, 598)",normal/normal (62)_mask.png
+images/000740.tiff,val,0,0,normal/normal (63).png,train,normal,no malignant finding,masks/000740.tiff,"(558, 467)",normal/normal (63)_mask.png
+images/000741.tiff,train,0,0,normal/normal (64).png,train,normal,no malignant finding,masks/000741.tiff,"(558, 470)",normal/normal (64)_mask.png
+images/000742.tiff,train,0,0,normal/normal (65).png,train,normal,no malignant finding,masks/000742.tiff,"(670, 570)",normal/normal (65)_mask.png
+images/000743.tiff,train,0,0,normal/normal (66).png,train,normal,no malignant finding,masks/000743.tiff,"(561, 468)",normal/normal (66)_mask.png
+images/000744.tiff,val,0,0,normal/normal (67).png,train,normal,no malignant finding,masks/000744.tiff,"(545, 493)",normal/normal (67)_mask.png
+images/000745.tiff,train,0,0,normal/normal (68).png,train,normal,no malignant finding,masks/000745.tiff,"(558, 488)",normal/normal (68)_mask.png
+images/000746.tiff,train,0,0,normal/normal (69).png,train,normal,no malignant finding,masks/000746.tiff,"(556, 487)",normal/normal (69)_mask.png
+images/000747.tiff,test,0,0,normal/normal (7).png,train,normal,no malignant finding,masks/000747.tiff,"(770, 585)",normal/normal (7)_mask.png
+images/000748.tiff,train,0,0,normal/normal (70).png,train,normal,no malignant finding,masks/000748.tiff,"(557, 471)",normal/normal (70)_mask.png
+images/000749.tiff,train,0,0,normal/normal (71).png,train,normal,no malignant finding,masks/000749.tiff,"(547, 470)",normal/normal (71)_mask.png
+images/000750.tiff,train,0,0,normal/normal (72).png,train,normal,no malignant finding,masks/000750.tiff,"(916, 692)",normal/normal (72)_mask.png
+images/000751.tiff,train,0,0,normal/normal (73).png,train,normal,no malignant finding,masks/000751.tiff,"(509, 474)",normal/normal (73)_mask.png
+images/000752.tiff,train,0,0,normal/normal (74).png,train,normal,no malignant finding,masks/000752.tiff,"(558, 467)",normal/normal (74)_mask.png
+images/000753.tiff,train,0,0,normal/normal (75).png,train,normal,no malignant finding,masks/000753.tiff,"(556, 467)",normal/normal (75)_mask.png
+images/000754.tiff,train,0,0,normal/normal (76).png,train,normal,no malignant finding,masks/000754.tiff,"(555, 469)",normal/normal (76)_mask.png
+images/000755.tiff,train,0,0,normal/normal (77).png,train,normal,no malignant finding,masks/000755.tiff,"(560, 471)",normal/normal (77)_mask.png
+images/000756.tiff,val,0,0,normal/normal (78).png,train,normal,no malignant finding,masks/000756.tiff,"(731, 478)",normal/normal (78)_mask.png
+images/000757.tiff,train,0,0,normal/normal (79).png,train,normal,no malignant finding,masks/000757.tiff,"(703, 471)",normal/normal (79)_mask.png
+images/000758.tiff,train,0,0,normal/normal (8).png,train,normal,no malignant finding,masks/000758.tiff,"(775, 587)",normal/normal (8)_mask.png
+images/000759.tiff,test,0,0,normal/normal (80).png,train,normal,no malignant finding,masks/000759.tiff,"(562, 470)",normal/normal (80)_mask.png
+images/000760.tiff,train,0,0,normal/normal (81).png,train,normal,no malignant finding,masks/000760.tiff,"(767, 587)",normal/normal (81)_mask.png
+images/000761.tiff,test,0,0,normal/normal (82).png,train,normal,no malignant finding,masks/000761.tiff,"(560, 468)",normal/normal (82)_mask.png
+images/000762.tiff,test,0,0,normal/normal (83).png,train,normal,no malignant finding,masks/000762.tiff,"(619, 576)",normal/normal (83)_mask.png
+images/000763.tiff,train,0,0,normal/normal (84).png,train,normal,no malignant finding,masks/000763.tiff,"(509, 477)",normal/normal (84)_mask.png
+images/000764.tiff,train,0,0,normal/normal (85).png,train,normal,no malignant finding,masks/000764.tiff,"(557, 464)",normal/normal (85)_mask.png
+images/000765.tiff,train,0,0,normal/normal (86).png,train,normal,no malignant finding,masks/000765.tiff,"(552, 469)",normal/normal (86)_mask.png
+images/000766.tiff,train,0,0,normal/normal (87).png,train,normal,no malignant finding,masks/000766.tiff,"(552, 467)",normal/normal (87)_mask.png
+images/000767.tiff,train,0,0,normal/normal (88).png,train,normal,no malignant finding,masks/000767.tiff,"(560, 463)",normal/normal (88)_mask.png
+images/000768.tiff,test,0,0,normal/normal (89).png,train,normal,no malignant finding,masks/000768.tiff,"(558, 467)",normal/normal (89)_mask.png
+images/000769.tiff,train,0,0,normal/normal (9).png,train,normal,no malignant finding,masks/000769.tiff,"(495, 491)",normal/normal (9)_mask.png
+images/000770.tiff,train,0,0,normal/normal (90).png,train,normal,no malignant finding,masks/000770.tiff,"(558, 496)",normal/normal (90)_mask.png
+images/000771.tiff,train,0,0,normal/normal (91).png,train,normal,no malignant finding,masks/000771.tiff,"(558, 493)",normal/normal (91)_mask.png
+images/000772.tiff,train,0,0,normal/normal (92).png,train,normal,no malignant finding,masks/000772.tiff,"(554, 486)",normal/normal (92)_mask.png
+images/000773.tiff,test,0,0,normal/normal (93).png,train,normal,no malignant finding,masks/000773.tiff,"(770, 578)",normal/normal (93)_mask.png
+images/000774.tiff,train,0,0,normal/normal (94).png,train,normal,no malignant finding,masks/000774.tiff,"(678, 585)",normal/normal (94)_mask.png
+images/000775.tiff,train,0,0,normal/normal (95).png,train,normal,no malignant finding,masks/000775.tiff,"(693, 582)",normal/normal (95)_mask.png
+images/000776.tiff,train,0,0,normal/normal (96).png,train,normal,no malignant finding,masks/000776.tiff,"(687, 578)",normal/normal (96)_mask.png
+images/000777.tiff,test,0,0,normal/normal (97).png,train,normal,no malignant finding,masks/000777.tiff,"(560, 470)",normal/normal (97)_mask.png
+images/000778.tiff,train,0,0,normal/normal (98).png,train,normal,no malignant finding,masks/000778.tiff,"(562, 470)",normal/normal (98)_mask.png
+images/000779.tiff,train,0,0,normal/normal (99).png,train,normal,no malignant finding,masks/000779.tiff,"(556, 468)",normal/normal (99)_mask.png
